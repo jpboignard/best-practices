@@ -1,3 +1,10 @@
+---
+title :  Adapter les sons aux contextes d'écoute
+category : Utilisation
+tiers : Utilisateur/Terminal
+responsable : Utilisateur
+---
+
 ## Adapter les sons aux contextes d'écoute
 
 ### Identifiants

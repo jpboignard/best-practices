@@ -1,3 +1,9 @@
+---
+title :  Utiliser la délégation d'évènements
+category : Réalisation
+tiers : Utilisateur/Terminal
+responsable : Architecte Logiciel/Développeur
+---
 ## Utiliser la délégation d'évènements
 
 ### Identifiants

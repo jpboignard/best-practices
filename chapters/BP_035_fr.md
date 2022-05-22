@@ -1,3 +1,10 @@
+---
+title :  Eviter d'utiliser des images matricielles pour l'interface
+category : Utilisation
+tiers : Utilisateur/Terminal
+responsable : Utilisateur
+---
+
 ## Eviter d'utiliser des images matricielles pour l'interface
 
 ### Identifiants

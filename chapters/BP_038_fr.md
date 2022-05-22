@@ -1,3 +1,10 @@
+---
+title :  Utiliser le rechargement partiel d'une zone de contenu
+category : Réalisation
+tiers : Réseau
+responsable : UX/UI Designer
+---
+
 ## Utiliser le rechargement partiel d'une zone de contenu
 
 ### Identifiants

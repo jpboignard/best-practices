@@ -1,4 +1,11 @@
-## Limiter les e-mails lourds et redondants
+---
+title :  Limiter les emails lourds et redondants
+category : Utilisation
+tiers : Utilisateur/Terminal
+responsable : Utilisateur
+---
+
+## Limiter les emails lourds et redondants
 
 ### Identifiants
 

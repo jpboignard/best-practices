@@ -1,3 +1,10 @@
+---
+title :  Compresser les fichiers CSS, JavaScript, HTML et SVG
+category : Réalisation
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Compresser les fichiers CSS, JavaScript, HTML et SVG
 
 ### Identifiants

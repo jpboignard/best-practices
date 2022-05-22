@@ -1,3 +1,10 @@
+---
+title :  Minifier les fichiers CSS, JavaScript, HTML et SVG
+category : Production
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Minifier les fichiers CSS, JavaScript, HTML et SVG
 
 ### Identifiants

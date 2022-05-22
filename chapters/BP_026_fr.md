@@ -1,3 +1,10 @@
+---
+title :  Utiliser les notations CSS abrégées
+category : Réalisation
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Utiliser les notations CSS abrégées
 
 ### Identifiants

@@ -1,3 +1,10 @@
+---
+title :  Combiner les fichiers CSS et JavaScript
+category : Production
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Combiner les fichiers CSS et JavaScript
 
 ### Identifiants

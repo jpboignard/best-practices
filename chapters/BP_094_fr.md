@@ -1,3 +1,10 @@
+---
+title :  Héberger les ressources (CSS/JS) sur un domaine sans cookie
+category : Production
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
 ## Héberger les ressources (CSS/JS) sur un domaine sans cookie
 
 ### Identifiants

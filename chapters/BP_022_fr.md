@@ -1,3 +1,10 @@
+---
+title :  Limiter le nombre de CSS
+category : Réalisation
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Limiter le nombre de CSS
 
 ### Identifiants

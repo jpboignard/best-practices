@@ -1,3 +1,13 @@
+---
+title : Préférer la saisie assistée à l'autocomplétion
+GreenIT : 204
+weight : 4
+category : Spécification
+tiers : Utilisateur/Terminal
+responsable : PO/AMOA
+---
+
+
 ## Préférer la saisie assistée à l'autocomplétion
 
 ### Identifiants

@@ -1,4 +1,11 @@
-## Limiter la taille des e-mails envoyés
+---
+title :  Limiter la taille des emails envoyés
+category : Utilisation
+tiers : Utilisateur/Terminal
+responsable : Utilisateur
+---
+
+## Limiter la taille des emails envoyés
 
 ### Identifiants
 

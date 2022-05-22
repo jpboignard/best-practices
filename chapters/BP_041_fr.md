@@ -1,3 +1,11 @@
+---
+title :  Ne pas faire de modification du DOM lorsqu’on le traverse
+category : Réalisation
+tiers : Utilisateur/Terminal
+responsable : Architecte Logiciel/Développeur
+---
+
+
 ## Ne pas faire de modification du DOM lorsqu’on le traverse
 
 ### Identifiants

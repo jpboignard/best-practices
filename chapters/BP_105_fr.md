@@ -1,3 +1,10 @@
+---
+title :  "Apache Vhost : désactiver le AllowOverride"
+category : Production
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
 ## Apache Vhost : désactiver le AllowOverride
 
 ### Identifiants

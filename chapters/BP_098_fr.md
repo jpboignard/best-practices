@@ -1,3 +1,10 @@
+---
+title :  Utiliser un CDN
+category : Production
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
 ## Utiliser un CDN
 
 ### Identifiants

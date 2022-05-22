@@ -1,3 +1,10 @@
+---
+title :  Optimiser les requêtes aux bases de données
+category : Réalisation
+tiers : Datacenter
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Optimiser les requêtes aux bases de données
 
 ### Identifiants

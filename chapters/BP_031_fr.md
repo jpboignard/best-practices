@@ -1,3 +1,10 @@
+---
+title :  Valider les pages auprès du W3C
+category : Réalisation
+tiers : Utilisateur/Terminal
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Valider les pages auprès du W3C
 
 ### Identifiants

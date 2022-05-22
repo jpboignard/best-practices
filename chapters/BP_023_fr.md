@@ -1,3 +1,10 @@
+---
+title :  Préférer les CSS aux images
+category : Réalisation
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Préférer les CSS aux images
 
 ### Identifiants

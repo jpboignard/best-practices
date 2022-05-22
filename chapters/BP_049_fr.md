@@ -1,3 +1,10 @@
+---
+title :  Mettre en cache les objets souvent accédés en JavaScript
+category : Réalisation
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Mettre en cache les objets souvent accédés en JavaScript
 
 ### Identifiants

@@ -1,3 +1,10 @@
+---
+title :  Afficher des pages d'erreur statiques
+category : Conception
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Afficher des pages d'erreur statiques
 
 ### Identifiants

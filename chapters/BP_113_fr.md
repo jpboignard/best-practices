@@ -1,3 +1,10 @@
+---
+title :  Adapter les textes au web
+category : Utilisation
+tiers : Utilisateur/Terminal
+responsable : Utilisateur
+---
+
 ## Adapter les textes au web
 
 ### Identifiants

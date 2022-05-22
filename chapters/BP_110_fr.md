@@ -1,3 +1,10 @@
+---
+title :  N'utiliser que des fichiers double opt-in
+category : Conception
+tiers : Utilisateur/Terminal
+responsable : PO/AMOA
+---
+
 ## N'utiliser que des fichiers double opt-in
 
 ### Identifiants

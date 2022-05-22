@@ -1,3 +1,10 @@
+---
+title : Favoriser les pages statiques
+category : Conception
+tiers : Utilisateur/Terminal
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Favoriser les pages statiques
 
 ### Identifiants

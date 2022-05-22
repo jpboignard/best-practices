@@ -1,3 +1,10 @@
+---
+title :  Compresser les documents
+category : Utilisation
+tiers : Utilisateur/Terminal
+responsable : Utilisateur
+---
+
 ## Compresser les documents
 
 ### Identifiants

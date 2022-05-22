@@ -1,3 +1,10 @@
+---
+title :  Stocker les données dans le cloud
+category : Production
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
 ## Stocker les données dans le cloud
 
 ### Identifiants

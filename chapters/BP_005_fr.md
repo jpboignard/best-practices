@@ -1,3 +1,12 @@
+---
+title : Favoriser un design simple, épuré, adapté au web
+GreenIT : 5
+weight : 5
+category : Conception
+tiers : Utilisateur/Terminal
+reponsable : UX/UI Designer
+---
+
 ## Favoriser un design simple, épuré, adapté au web
 
 ### Identifiants

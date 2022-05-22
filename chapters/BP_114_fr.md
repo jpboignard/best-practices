@@ -1,3 +1,10 @@
+---
+title :  Adapter les vidéos aux contextes de visualisation
+category : Utilisation
+tiers : Utilisateur/Terminal
+responsable : Utilisateur
+---
+
 ## Adapter les vidéos aux contextes de visualisation
 
 ### Identifiants

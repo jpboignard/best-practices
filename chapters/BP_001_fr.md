@@ -1,3 +1,13 @@
+---
+title : Éliminer les fonctionnalités non essentielles
+GreenIT : 109
+weight : 1
+category : Spécification
+tiers : Utilisateur/Terminal
+reponsable : PO/AMOA
+tag : [ Obligatoire, "PO/AMOA", "Sprint 1" , "TODO"]
+---
+
 ## Éliminer les fonctionnalités non essentielles
 
 ### Identifiants

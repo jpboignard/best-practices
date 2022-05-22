@@ -1,3 +1,10 @@
+---
+title :  Optimiser l'efficacité énergétique des serveurs
+category : Production
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
 ## Optimiser l'efficacité énergétique des serveurs
 
 ### Identifiants

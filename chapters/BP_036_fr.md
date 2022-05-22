@@ -1,3 +1,10 @@
+---
+title :  Optimiser les images vectorielles
+category : Utilisation
+tiers : Utilisateur/Terminal
+responsable : Utilisateur
+---
+
 ## Optimiser les images vectorielles
 
 ### Identifiants

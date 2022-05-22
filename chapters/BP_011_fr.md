@@ -1,3 +1,11 @@
+---
+title : Favoriser un développement sur-mesure à l'usage d'un CMS
+category : Conception
+tiers : Datacenter
+responsable : Architecte Logiciel/Développeur
+weight : 11
+---
+
 ## Favoriser un développement sur-mesure à l'usage d'un CMS
 
 ### Identifiants

@@ -1,3 +1,10 @@
+---
+title :  Favoriser les polices standards
+category : Réalisation
+tiers : Réseau
+responsable : UX/UI Designer
+---
+
 ## Favoriser les polices standards
 
 ### Identifiants

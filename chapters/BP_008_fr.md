@@ -1,3 +1,11 @@
+---
+title : Proposer un traitement asynchrone lorsque c'est possible
+weight : 8
+GreenIT : 112
+category : Conception
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
 ## Proposer un traitement asynchrone lorsque c'est possible
 
 ### Identifiants

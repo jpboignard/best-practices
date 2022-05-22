@@ -1,3 +1,10 @@
+---
+title : Créer une architecture applicative modulaire
+category : Conception
+tiers : Datacenter
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Créer une architecture applicative modulaire
 
 ### Identifiants

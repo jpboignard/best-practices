@@ -1,3 +1,10 @@
+---
+title :  Désactiver le DNS lookup d’Apache
+category : Production
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
 ## Désactiver le DNS lookup d’Apache
 
 ### Identifiants

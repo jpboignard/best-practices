@@ -1,3 +1,10 @@
+---
+title :  Utiliser tous les niveaux de cache du CMS
+category : Production
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
 ## Utiliser tous les niveaux de cache du CMS
 
 ### Identifiants

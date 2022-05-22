@@ -1,3 +1,11 @@
+---
+title :  Adapter la qualité de service et le niveau de disponibilité
+category : Production
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
+
 ## Adapter la qualité de service et le niveau de disponibilité
 
 ### Identifiants

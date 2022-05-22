@@ -1,3 +1,10 @@
+---
+title :  Désactiver les logs binaires
+category : Support / Maintenance
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
 ## Désactiver les logs binaires
 
 ### Identifiants

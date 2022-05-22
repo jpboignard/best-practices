@@ -1,3 +1,10 @@
+---
+title :  Installer le minimum requis sur le serveur
+category : Production
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
 ## Installer le minimum requis sur le serveur
 
 ### Identifiants

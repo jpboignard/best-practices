@@ -1,3 +1,10 @@
+---
+title :  Réduire les accès au DOM via JavaScript
+category : Réalisation
+tiers : Utilisateur/Terminal
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Réduire les accès au DOM via JavaScript
 
 ### Identifiants

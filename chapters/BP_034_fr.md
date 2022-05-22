@@ -1,3 +1,10 @@
+---
+title :  Ne pas redimensionner les images coté navigateur
+category : Réalisation
+tiers : Utilisateur/Terminal
+responsable : Utilisateur
+---
+
 ## Ne pas redimensionner les images coté navigateur
 
 ### Identifiants

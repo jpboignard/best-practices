@@ -1,3 +1,10 @@
+---
+title :  Optimiser les PDF
+category : Utilisation
+tiers : Utilisateur/Terminal
+responsable : Utilisateur
+---
+
 ## Optimiser les PDF
 
 ### Identifiants

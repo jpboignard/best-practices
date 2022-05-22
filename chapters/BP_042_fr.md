@@ -1,3 +1,10 @@
+---
+title :  Rendre les éléments du DOM invisibles lors de leur modification
+category : Réalisation
+tiers : Utilisateur/Terminal
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Rendre les éléments du DOM invisibles lors de leur modification
 
 ### Identifiants

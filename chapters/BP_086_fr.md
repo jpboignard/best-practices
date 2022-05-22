@@ -1,3 +1,10 @@
+---
+title :  Choisir un hébergeur "éco-responsable"
+category : Production
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
 ## Choisir un hébergeur "éco-responsable"
 
 ### Identifiants

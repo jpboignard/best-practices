@@ -1,3 +1,10 @@
+---
+title :  Optimiser les images
+category : Réalisation
+tiers : Utilisateur/Terminal
+responsable : Utilisateur
+---
+
 ## Optimiser les images
 
 ### Identifiants

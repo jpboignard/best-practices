@@ -1,3 +1,10 @@
+---
+title :  Mettre en cache les réponses Ajax
+category : Production
+tiers : Utilisateur/Terminal
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Mettre en cache les réponses Ajax
 
 ### Identifiants

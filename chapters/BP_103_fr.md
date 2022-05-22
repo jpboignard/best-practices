@@ -1,3 +1,10 @@
+---
+title :  Réduire au nécessaire les logs des serveurs
+category : Production
+tiers : Datacenter
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Réduire au nécessaire les logs des serveurs
 
 ### Identifiants

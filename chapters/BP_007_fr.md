@@ -1,3 +1,11 @@
+---
+title : Respecter le principe de navigation rapide dans l’historique
+order: 28
+weight : 7
+category : Conception
+tiers : Utilisateur/Terminal
+reponsable : UX/UI Designer
+---
 ## Respecter le principe de navigation rapide dans l’historique
 
 ### Identifiants

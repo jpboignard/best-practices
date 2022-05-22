@@ -1,3 +1,12 @@
+---
+title : Stocker les données statiques localement
+GreenIT : 205
+weight : 10
+category : Réalisation
+tiers : Datacenter
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Stocker les données statiques localement
 
 ### Identifiants

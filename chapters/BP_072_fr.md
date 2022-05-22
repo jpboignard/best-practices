@@ -1,4 +1,11 @@
-## Éviter d'effectuer des requêtes SQL à l’intérieur d’une boucle
+---
+title :  Eviter d'effectuer des requêtes SQL à l’intérieur d’une boucle
+category : Réalisation
+tiers : Datacenter
+responsable : Architecte Logiciel/Développeur
+---
+
+## Eviter d'effectuer des requêtes SQL à l’intérieur d’une boucle
 
 ### Identifiants
 

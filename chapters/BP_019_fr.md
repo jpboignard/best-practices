@@ -1,3 +1,10 @@
+---
+title :  Remplacer les boutons officiels de partage des réseaux sociaux
+category : Réalisation
+tiers : Utilisateur/Terminal
+responsable : UX/UI Designer
+---
+
 ## Remplacer les boutons officiels de partage des réseaux sociaux
 
 ### Identifiants

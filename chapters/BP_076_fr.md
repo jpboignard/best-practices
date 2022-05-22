@@ -1,3 +1,10 @@
+---
+title :  Éviter le transfert d'une grande quantité de données pour réaliser un traitement
+category : Conception
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Éviter le transfert d'une grande quantité de données pour réaliser un traitement
 
 ### Identifiants

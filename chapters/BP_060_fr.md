@@ -1,3 +1,10 @@
+---
+title :  Encoder les sons en dehors du CMS
+category : Utilisation
+tiers : Utilisateur/Terminal
+responsable : Utilisateur
+---
+
 ## Encoder les sons en dehors du CMS
 
 ### Identifiants

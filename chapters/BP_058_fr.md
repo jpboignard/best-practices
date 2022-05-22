@@ -1,3 +1,10 @@
+---
+title :  Optimiser et générer les médias avant importation sur un CMS
+category : Utilisation
+tiers : Utilisateur/Terminal
+responsable : Utilisateur
+---
+
 ## Optimiser et générer les médias avant importation sur un CMS
 
 ### Identifiants

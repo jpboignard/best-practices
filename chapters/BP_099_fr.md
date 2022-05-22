@@ -1,3 +1,10 @@
+---
+title :  Utiliser un cache HTTP
+category : Production
+tiers : Réseau
+responsable : Administrateur systèmes
+---
+
 ## Utiliser un cache HTTP
 
 ### Identifiants

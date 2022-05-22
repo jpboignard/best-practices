@@ -1,3 +1,10 @@
+---
+title :  Ajouter des entêtes Expires ou Cache-Control
+category : Production
+tiers : Réseau
+responsable : Administrateur systèmes
+---
+
 ## Ajouter des entêtes Expires ou Cache-Control
 
 ### Identifiants

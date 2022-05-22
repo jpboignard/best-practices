@@ -1,3 +1,10 @@
+---
+title :  Fournir une CSS print
+category : Réalisation
+tiers : Utilisateur/Terminal
+responsable : UX/UI Designer
+---
+
 ## Fournir une CSS print
 
 ### Identifiants

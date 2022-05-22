@@ -1,3 +1,10 @@
+---
+title :  Mettre les caches entièrement en RAM (opcode et kvs)
+category : Production
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
 ## Mettre les caches entièrement en RAM (opcode et kvs)
 
 ### Identifiants

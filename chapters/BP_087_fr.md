@@ -1,3 +1,10 @@
+---
+title :  Privilégier un fournisseur d'électricité écoresponsable
+category : Production
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
 ## Privilégier un fournisseur d'électricité écoresponsable
 
 ### Identifiants

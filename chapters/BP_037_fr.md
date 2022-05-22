@@ -1,3 +1,10 @@
+---
+title :  Utiliser le chargement paresseux
+category : Réalisation
+tiers : Réseau
+responsable : UX/UI Designer
+---
+
 ## Utiliser le chargement paresseux
 
 ### Identifiants

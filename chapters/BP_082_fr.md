@@ -1,3 +1,10 @@
+---
+title :  Optimiser la taille des cookies
+category : Réalisation
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Optimiser la taille des cookies
 
 ### Identifiants

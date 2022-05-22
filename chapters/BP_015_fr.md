@@ -1,3 +1,10 @@
+---
+title : Choisir les technologies les plus adaptées
+category : Réalisation
+tiers : Datacenter
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Choisir les technologies les plus adaptées
 
 ### Identifiants

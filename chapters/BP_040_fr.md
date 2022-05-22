@@ -1,4 +1,11 @@
-## N'utilisez que les portions indispensables des librairies JavaScript et frameworks CSS
+---
+title :  N'utilisez que les portions indispensables des librairies Javascript et frameworks CSS
+category : Conception
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
+## N'utilisez que les portions indispensables des librairies Javascript et frameworks CSS
 
 ### Identifiants
 

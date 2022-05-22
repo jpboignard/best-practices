@@ -1,3 +1,10 @@
+---
+title :  Réduire au maximum le repaint (appearence) et le reflow (layout)
+category : Réalisation
+tiers : Utilisateur/Terminal
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Réduire au maximum le repaint (appearence) et le reflow (layout)
 
 ### Identifiants

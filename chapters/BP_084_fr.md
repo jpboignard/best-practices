@@ -1,3 +1,10 @@
+---
+title :  Favoriser HSTS Preload list aux redirections 301
+category : Production
+tiers : Réseau
+responsable : Administrateur systèmes
+---
+
 ## Favoriser HSTS Preload list aux redirections 301
 
 ### Identifiants

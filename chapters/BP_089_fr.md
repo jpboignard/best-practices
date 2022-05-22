@@ -1,3 +1,10 @@
+---
+title :  Utiliser des serveurs virtualisés
+category : Production
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
 ## Utiliser des serveurs virtualisés
 
 ### Identifiants

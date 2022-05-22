@@ -1,3 +1,13 @@
+---
+title : Quantifier précisément le besoin
+GreenIT : 110
+weight : 2
+category : Spécification
+tiers : Utilisateur/Terminal
+responsable : PO/AMOA
+tag : [ Obligatoire, "PO/AMOA", "Sprint 1", "DONE" ]
+---
+
 ## Quantifier précisément le besoin
 
 ### Identifiants

@@ -1,3 +1,10 @@
+---
+title :  Mettre en cache les données calculées souvent utilisées
+category : Conception
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Mettre en cache les données calculées souvent utilisées
 
 ### Identifiants

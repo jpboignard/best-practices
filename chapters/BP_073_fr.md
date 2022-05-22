@@ -1,3 +1,10 @@
+---
+title :  Ne se connecter à une base de données que si nécessaire
+category : Conception
+tiers : Datacenter
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Ne se connecter à une base de données que si nécessaire
 
 ### Identifiants

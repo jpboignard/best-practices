@@ -1,3 +1,11 @@
+---
+title :  Externaliser les CSS et JavaScript
+category : Réalisation
+tiers: Réseau
+responsable : Architecte Logiciel/Développeur
+
+---
+
 ## Externaliser les CSS et JavaScript
 
 ### Identifiants

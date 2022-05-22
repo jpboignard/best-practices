@@ -1,3 +1,10 @@
+---
+title :  Modifier plusieurs propriétés CSS en 1 seule fois
+category : Réalisation
+tiers : Utilisateur/Terminal
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Modifier plusieurs propriétés CSS en 1 seule fois
 
 ### Identifiants

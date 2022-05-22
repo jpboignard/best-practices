@@ -1,3 +1,10 @@
+---
+title :  Valider votre code avec un Linter
+category : Réalisation
+tiers : Utilisateur/Terminal
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Valider votre code avec un Linter
 
 ### Identifiants

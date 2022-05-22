@@ -1,3 +1,10 @@
+---
+title :  Supprimer tous les warning et toutes les notices
+category : Production
+tiers : Datacenter
+responsable : Administrateur systèmes
+---
+
 ## Supprimer tous les warning et toutes les notices
 
 ### Identifiants

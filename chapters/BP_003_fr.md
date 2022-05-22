@@ -1,3 +1,14 @@
+---
+title : Optimiser le parcours utilisateur
+GreenIT : 111
+weight : 3
+category : Conception
+tiers : Utilisateur/Terminal
+reponsable : UX/UI Designer
+tag : [ Obligatoire, "UX/UI Designer", "Sprint 1", "WIP" ]
+
+---
+
 ## Optimiser le parcours utilisateur
 
 ### Identifiants

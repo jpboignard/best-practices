@@ -1,4 +1,11 @@
-## Écrire des sélecteurs CSS efficaces
+---
+title :  Ecrire des sélecteurs CSS efficaces
+category : Réalisation
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
+## Ecrire des sélecteurs CSS efficaces
 
 ### Identifiants
 

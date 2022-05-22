@@ -1,3 +1,10 @@
+---
+title :  Grouper les déclarations CSS similaires
+category : Réalisation
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
 ## Grouper les déclarations CSS similaires
 
 ### Identifiants

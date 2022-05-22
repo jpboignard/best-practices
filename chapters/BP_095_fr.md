@@ -1,4 +1,11 @@
-## Éviter les redirections
+---
+title :  Eviter les redirections
+category : Support / Maintenance
+tiers : Réseau
+responsable : Architecte Logiciel/Développeur
+---
+
+## Eviter les redirections
 
 ### Identifiants
 
