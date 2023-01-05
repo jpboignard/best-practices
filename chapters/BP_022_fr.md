@@ -1,8 +1,16 @@
 ---
 title :  Limiter le nombre de CSS
+GreenIT : 10
+id : 22
 category : Réalisation
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 4
+difficulty: 4
+impact: 4
+ressources:
+- Réseau
+- Requêtes
 ---
 
 ## Limiter le nombre de CSS

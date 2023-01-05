@@ -1,8 +1,17 @@
 ---
 title :  N'utilisez que les portions indispensables des librairies Javascript et frameworks CSS
+GreenIT : 811
+id : 40
 category : Conception
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 4
+difficulty: 4
+impact: 4
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
 ---
 
 ## N'utilisez que les portions indispensables des librairies Javascript et frameworks CSS

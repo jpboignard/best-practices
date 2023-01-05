@@ -1,8 +1,17 @@
 ---
 title :  Choisir un hébergeur "éco-responsable"
+GreenIT : 66
+id : 86
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
+priority: 4
+difficulty: 3
+impact: 3
+ressources:
+- Déchets électroniques
+- Consommation électrique
+- Émissions de gaz à effet de serre
 ---
 
 ## Choisir un hébergeur "éco-responsable"

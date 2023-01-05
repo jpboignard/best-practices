@@ -1,8 +1,15 @@
 ---
 title :  Grouper les déclarations CSS similaires
+GreenIT : 14
+id : 25
 category : Réalisation
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 3
+difficulty: 3
+impact: 2
+ressources:
+- Réseau
 ---
 
 ## Grouper les déclarations CSS similaires

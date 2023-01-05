@@ -1,8 +1,17 @@
 ---
 title :  N'utiliser que des fichiers double opt-in
+GreenIT : 103
+id : 110
 category : Conception
 tiers : Utilisateur/Terminal
 responsable : PO/AMOA
+priority: 2
+difficulty: 3
+impact: 2
+ressources:
+- Processeur
+- Réseau
+- Requêtes
 ---
 
 ## N'utiliser que des fichiers double opt-in

@@ -1,8 +1,15 @@
 ---
 title :  Eviter d'utiliser des images matricielles pour l'interface
+GreenIT : 101
+id : 35
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
+priority: 4
+difficulty: 4
+impact: 4
+ressources:
+- Réseau
 ---
 
 ## Eviter d'utiliser des images matricielles pour l'interface

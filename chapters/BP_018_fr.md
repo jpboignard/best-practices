@@ -1,8 +1,16 @@
 ---
 title :  Limiter le nombre de domaine servant les ressources
+GreenIT : 170
+id : 18
 category : Production
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 3
+difficulty: 3
+impact: 4
+ressources:
+- Requêtes
+tag :
 ---
 
 ## Limiter le nombre de domaine servant les ressources

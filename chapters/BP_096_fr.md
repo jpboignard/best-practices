@@ -1,8 +1,18 @@
 ---
 title :  Afficher des pages d'erreur statiques
+GreenIT : 46
+id : 96
 category : Conception
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 3
+difficulty: 3
+impact: 3
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
+- Stockage
 ---
 
 ## Afficher des pages d'erreur statiques

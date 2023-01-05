@@ -1,8 +1,16 @@
 ---
 title :  Utiliser des serveurs virtualisés
+GreenIT : 70
+id : 89
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
+priority: 3
+difficulty: 3
+impact: 3
+ressources:
+- Processeur
+- Mémoire vive
 ---
 
 ## Utiliser des serveurs virtualisés

@@ -1,8 +1,16 @@
 ---
 title :  Mettre en cache les données calculées souvent utilisées
+GreenIT : 47
+id : 64
 category : Conception
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Processeur
+- Mémoire vive
 ---
 
 ## Mettre en cache les données calculées souvent utilisées

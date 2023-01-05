@@ -1,8 +1,18 @@
 ---
 title : Choisir les technologies les plus adaptées
+GreenIT : 1
+id : 15
 category : Réalisation
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
+priority: 4
+difficulty: 4
+impact: 5
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
+tag :
 ---
 
 ## Choisir les technologies les plus adaptées

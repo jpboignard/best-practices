@@ -1,8 +1,17 @@
 ---
 title :  Optimiser les requêtes aux bases de données
+GreenIT : 59
+id : 75
 category : Réalisation
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
+priority: 3
+difficulty: 3
+impact: 3
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
 ---
 
 ## Optimiser les requêtes aux bases de données

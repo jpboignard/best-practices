@@ -1,9 +1,18 @@
 ---
 title : Favoriser un développement sur-mesure à l'usage d'un CMS
+GreenIT : 2
+id : 11
 category : Conception
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
-weight : 11
+priority: 3
+difficulty: 3
+impact: 3
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
+tag : 
 ---
 
 ## Favoriser un développement sur-mesure à l'usage d'un CMS

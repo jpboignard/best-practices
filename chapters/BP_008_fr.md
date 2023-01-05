@@ -1,11 +1,20 @@
 ---
 title : Proposer un traitement asynchrone lorsque c'est possible
-weight : 8
+id : 8
 GreenIT : 112
 category : Conception
-tiers : Réseau
+tiers :  Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Mémoire vive
+- Réseau
+- Requêtes
+tag : 
 ---
+
 ## Proposer un traitement asynchrone lorsque c'est possible
 
 ### Identifiants

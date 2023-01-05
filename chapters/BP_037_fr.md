@@ -1,8 +1,16 @@
 ---
 title :  Utiliser le chargement paresseux
+GreenIT : 1010
+id : 37
 category : Réalisation
 tiers : Réseau
 responsable : UX/UI Designer
+priority: 4
+difficulty: 4
+impact: 5
+ressources:
+- Processeur
+- Réseau
 ---
 
 ## Utiliser le chargement paresseux

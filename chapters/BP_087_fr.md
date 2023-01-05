@@ -1,8 +1,15 @@
 ---
 title :  Privilégier un fournisseur d'électricité écoresponsable
+GreenIT : 67
+id : 87
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
+priority: 3
+difficulty: 3
+impact: 2
+ressources:
+- Émissions de gaz à effet de serre
 ---
 
 ## Privilégier un fournisseur d'électricité écoresponsable

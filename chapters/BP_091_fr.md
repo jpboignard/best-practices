@@ -1,8 +1,17 @@
 ---
 title :  Installer le minimum requis sur le serveur
+GreenIT : 74
+id : 91
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
+priority: 3
+difficulty: 4
+impact: 3
+ressources:
+- Processeur
+- Mémoire vive
+- Stockage
 ---
 
 ## Installer le minimum requis sur le serveur

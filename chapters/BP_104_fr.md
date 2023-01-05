@@ -1,8 +1,16 @@
 ---
 title :  Désactiver le DNS lookup d’Apache
+GreenIT : 84 
+id : 104
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
+priority: 2
+difficulty: 2
+impact: 3
+ressources:
+- Processeur
+- Réseau
 ---
 
 ## Désactiver le DNS lookup d’Apache

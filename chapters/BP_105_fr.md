@@ -1,8 +1,15 @@
 ---
 title :  "Apache Vhost : désactiver le AllowOverride"
+GreenIT : 81 
+id : 105
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
+priority: 2
+difficulty: 2
+impact: 3
+ressources:
+- Processeur
 ---
 
 ## Apache Vhost : désactiver le AllowOverride

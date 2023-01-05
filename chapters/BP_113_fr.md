@@ -1,8 +1,16 @@
 ---
 title :  Adapter les textes au web
+GreenIT : 100
+id :  113
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
+priority: 3
+difficulty: 3
+impact: 3
+ressources:
+- Mémoire vive
+- Réseau
 ---
 
 ## Adapter les textes au web

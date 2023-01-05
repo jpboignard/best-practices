@@ -1,8 +1,17 @@
 ---
 title :  Compresser les documents
+GreenIT : 97
+id : 107
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
+priority: 3
+difficulty: 2
+impact: 4
+ressources:
+- Réseau
+- Stockage
+tag:
 ---
 
 ## Compresser les documents

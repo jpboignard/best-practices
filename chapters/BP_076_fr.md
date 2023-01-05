@@ -1,8 +1,17 @@
 ---
 title :  Éviter le transfert d'une grande quantité de données pour réaliser un traitement
+GreenIT : 58
+id : 76
 category : Conception
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 3
+difficulty: 3
+impact: 3
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
 ---
 
 ## Éviter le transfert d'une grande quantité de données pour réaliser un traitement

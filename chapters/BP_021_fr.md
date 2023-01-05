@@ -1,8 +1,16 @@
 ---
 title :  Découper les CSS
+GreenIT : 9
+id : 21
 category : Réalisation
 tiers : Réseau
 responsable : UX/UI Designer
+priority: 4
+difficulty: 4
+impact: 4
+ressources:
+- Processeur
+- Réseau
 ---
 
 ## Découper les CSS

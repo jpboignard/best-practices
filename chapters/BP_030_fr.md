@@ -1,8 +1,17 @@
 ---
 title :  Préférer les glyphs aux images
+GreenIT : 20
+id : 30
 category : Réalisation
 tiers : Réseau
 responsable : UX/UI Designer
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Réseau
+- Requêtes
+- Stockage
 ---
 
 ## Préférer les glyphs aux images

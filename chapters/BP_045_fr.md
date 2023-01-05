@@ -1,8 +1,15 @@
 ---
 title :  Modifier plusieurs propriétés CSS en 1 seule fois
+GreenIT : 34
+id : 45
 category : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
+priority: 3
+difficulty: 4
+impact: 2
+ressources:
+- Processeur
 ---
 
 ## Modifier plusieurs propriétés CSS en 1 seule fois

@@ -1,8 +1,16 @@
 ---
 title :  Utiliser un CDN
+GreenIT : 75 
+id : 98
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Processeur
+- Mémoire vive
 ---
 
 ## Utiliser un CDN

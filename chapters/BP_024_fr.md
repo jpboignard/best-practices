@@ -1,8 +1,16 @@
 ---
 title :  Ecrire des sélecteurs CSS efficaces
+GreenIT : 13
+id : 24
 category : Réalisation
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 3
+difficulty: 3
+impact: 2
+ressources:
+- Processeur
+tag :
 ---
 
 ## Ecrire des sélecteurs CSS efficaces

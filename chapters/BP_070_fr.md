@@ -1,8 +1,16 @@
 ---
 title :  Supprimer tous les warning et toutes les notices
+GreenIT : 51
+id : 70
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
+priority: 2
+difficulty: 3
+impact: 2
+ressources:
+- Processeur
+- Stockage
 ---
 
 ## Supprimer tous les warning et toutes les notices

@@ -1,8 +1,15 @@
 ---
 title :  Combiner les fichiers CSS et JavaScript
+GreenIT : 89
+id : 79
 category : Production
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Requêtes
 ---
 
 ## Combiner les fichiers CSS et JavaScript

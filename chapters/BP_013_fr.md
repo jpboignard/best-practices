@@ -1,8 +1,17 @@
 ---
 title : Favoriser les pages statiques
+GreenIT : 3
+id : 11
 category : Conception
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
+priority: 4
+difficulty: 3
+impact: 5
+ressources:
+- Processeur
+- Mémoire vive
+tag : 
 ---
 
 ## Favoriser les pages statiques

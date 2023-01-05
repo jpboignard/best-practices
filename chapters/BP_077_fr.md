@@ -1,8 +1,16 @@
 ---
 title :  Minifier les fichiers CSS, JavaScript, HTML et SVG
+GreenIT : 12
+id : 77
 category : Production
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Réseau
+- Requêtes
 ---
 
 ## Minifier les fichiers CSS, JavaScript, HTML et SVG

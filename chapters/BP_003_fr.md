@@ -1,10 +1,19 @@
 ---
 title : Optimiser le parcours utilisateur
 GreenIT : 111
-weight : 3
+id : 3
 category : Conception
 tiers : Utilisateur/Terminal
 reponsable : UX/UI Designer
+priority: 5
+difficulty: 4
+impact: 5
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
+- Requêtes
+- Stockage
 tag : [ Obligatoire, "UX/UI Designer", "Sprint 1", "WIP" ]
 
 ---

@@ -1,8 +1,16 @@
 ---
-title :  Préférer les CSS aux images
+title :  Préférer les CSS aux image
+GreenIT : 11
+id : 23
 category : Réalisation
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Réseau
+- Requêtes
 ---
 
 ## Préférer les CSS aux images

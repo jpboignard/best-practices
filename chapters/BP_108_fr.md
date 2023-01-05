@@ -1,8 +1,16 @@
 ---
 title :  Optimiser les PDF
+GreenIT : 98
+id : 108
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
+priority: 3
+difficulty: 3
+impact: 3
+ressources:
+- Réseau
+- Stockage
 ---
 
 ## Optimiser les PDF

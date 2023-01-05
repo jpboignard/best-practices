@@ -1,8 +1,15 @@
 ---
 title :  Valider votre code avec un Linter
+GreenIT : 35
+id : 46
 category : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
+priority: 3
+difficulty: 3
+impact: 2
+ressources:
+- Processeur
 ---
 
 ## Valider votre code avec un Linter

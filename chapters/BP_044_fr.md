@@ -1,8 +1,16 @@
 ---
 title :  Utiliser la délégation d'évènements
+GreenIT : 41
+id : 44
 category : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
+priority: 3
+difficulty: 3
+impact: 4
+ressources:
+- Processeur
+- Mémoire vive
 ---
 ## Utiliser la délégation d'évènements
 

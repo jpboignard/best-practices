@@ -1,8 +1,19 @@
 ---
 title :  Mettre en place un plan de fin de vie du site
+GreenIT : 1030
+id : 85
 category : Fin de vie
 tiers : Datacenter
 responsable : PO/AMOA
+priority: 3
+difficulty: 2
+impact: 3
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
+- Requêtes
+- Stockage
 ---
 
 ## Mettre en place un plan de fin de vie du site

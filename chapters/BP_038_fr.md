@@ -1,8 +1,17 @@
 ---
 title :  Utiliser le rechargement partiel d'une zone de contenu
+GreenIT : 40
+id : 38
 category : Réalisation
 tiers : Réseau
 responsable : UX/UI Designer
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
 ---
 
 ## Utiliser le rechargement partiel d'une zone de contenu

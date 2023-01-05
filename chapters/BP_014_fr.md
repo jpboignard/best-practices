@@ -1,8 +1,18 @@
 ---
 title : Créer une architecture applicative modulaire
+GreenIT : 114
+id : 14
 category : Conception
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
+priority: 3
+difficulty: 3
+impact: 3
+ressources:
+- Processeur
+- Mémoire vive
+- Stockage
+tag :
 ---
 
 ## Créer une architecture applicative modulaire

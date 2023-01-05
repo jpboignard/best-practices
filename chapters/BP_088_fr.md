@@ -1,8 +1,15 @@
 ---
 title :  Adapter la qualité de service et le niveau de disponibilité
+GreenIT : 501
+id : 88
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
+priority: 3
+difficulty: 2
+impact: 4
+ressources:
+- Consommation électrique
 ---
 
 

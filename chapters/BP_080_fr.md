@@ -1,8 +1,17 @@
 ---
 title :  Optimiser les images
+GreenIT : 21
+id : 80
 category : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Réseau
+- Requêtes
+- Stockage
 ---
 
 ## Optimiser les images

@@ -1,8 +1,15 @@
 ---
 title :  Utiliser les notations CSS abrégées
+GreenIT : 15
+id : 26
 category : Réalisation
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 2
+difficulty: 3
+impact: 2
+ressources:
+- Réseau
 ---
 
 ## Utiliser les notations CSS abrégées

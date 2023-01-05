@@ -1,8 +1,15 @@
 ---
 title :  Adapter les sons aux contextes d'écoute
+GreenIT : 95 
+id : 112
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
+priority: 2
+difficulty: 2
+impact: 3
+ressources:
+- Réseau
 ---
 
 ## Adapter les sons aux contextes d'écoute

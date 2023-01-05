@@ -1,10 +1,19 @@
 ---
 title : Éliminer les fonctionnalités non essentielles
 GreenIT : 109
-weight : 1
+id : 1
 category : Spécification
 tiers : Utilisateur/Terminal
 reponsable : PO/AMOA
+priority: 5
+difficulty: 4
+impact: 5
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
+- Requêtes
+- Stockage
 tag : [ Obligatoire, "PO/AMOA", "Sprint 1" , "TODO"]
 ---
 

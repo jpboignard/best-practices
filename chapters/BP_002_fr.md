@@ -1,10 +1,19 @@
 ---
 title : Quantifier précisément le besoin
 GreenIT : 110
-weight : 2
+id : 2
 category : Spécification
 tiers : Utilisateur/Terminal
 responsable : PO/AMOA
+priority: 5
+difficulty: 4
+impact: 5
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
+- Requêtes
+- Stockage
 tag : [ Obligatoire, "PO/AMOA", "Sprint 1", "DONE" ]
 ---
 

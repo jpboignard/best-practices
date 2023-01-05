@@ -1,8 +1,18 @@
 ---
 title :  Encoder les sons en dehors du CMS
+GreenIT : 96
+id : 60
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
+priority: 4
+difficulty: 4
+impact: 4
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
+- Stockage
 ---
 
 ## Encoder les sons en dehors du CMS

@@ -1,8 +1,16 @@
 ---
 title :  Utiliser un cache HTTP
+GreenIT : 72 
+id : 99
 category : Production
 tiers : Réseau
 responsable : Administrateur systèmes
+priority: 4
+difficulty: 3
+impact: 5
+ressources:
+- Processeur
+- Mémoire vive
 ---
 
 ## Utiliser un cache HTTP

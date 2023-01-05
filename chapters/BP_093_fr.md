@@ -1,8 +1,15 @@
 ---
 title :  Stocker les données dans le cloud
+GreenIT : 71 
+id : 93
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
+priority: 2
+difficulty: 3
+impact: 2
+ressources:
+- Stockage
 ---
 
 ## Stocker les données dans le cloud

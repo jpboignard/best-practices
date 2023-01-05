@@ -1,8 +1,16 @@
 ---
 title :  Ne pas redimensionner les images coté navigateur
+GreenIT : 93
+id : 34
 category : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
+priority: 4
+difficulty: 4
+impact: 4
+ressources:
+- Processeur
+- Réseau
 ---
 
 ## Ne pas redimensionner les images coté navigateur

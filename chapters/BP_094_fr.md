@@ -1,8 +1,15 @@
 ---
 title :  Héberger les ressources (CSS/JS) sur un domaine sans cookie
+GreenIT : 73
+id : 94
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
+priority: 3
+difficulty: 3
+impact: 4
+ressources:
+- Réseau
 ---
 
 ## Héberger les ressources (CSS/JS) sur un domaine sans cookie

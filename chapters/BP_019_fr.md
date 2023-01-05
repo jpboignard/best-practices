@@ -1,8 +1,16 @@
 ---
 title :  Remplacer les boutons officiels de partage des réseaux sociaux
+GreenIT : 910
+id : 19
 category : Réalisation
 tiers : Utilisateur/Terminal
 responsable : UX/UI Designer
+priority: 4
+difficulty: 4
+impact: 4
+ressources:
+- Réseau
+- Requêtes
 ---
 
 ## Remplacer les boutons officiels de partage des réseaux sociaux

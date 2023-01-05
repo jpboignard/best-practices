@@ -1,8 +1,15 @@
 ---
 title :  Optimiser les images vectorielles
+GreenIT : 1050
+id : 36
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
+priority: 4
+difficulty: 4
+impact: 4
+ressources:
+- Réseau
 ---
 
 ## Optimiser les images vectorielles

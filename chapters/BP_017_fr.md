@@ -1,8 +1,19 @@
 ---
 title :  Choisir un format de données adapté
+GreenIT : 113
+id : 17
 category : Réalisation
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
+- Stockage
+tag :
 ---
 
 ## Choisir un format de données adapté

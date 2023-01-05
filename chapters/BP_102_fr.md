@@ -1,8 +1,16 @@
 ---
 title :  Mettre en cache les réponses Ajax
+GreenIT : 91
+id : 102
 category : Production
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
+priority: 3
+difficulty: 2
+impact: 4
+ressources:
+- Réseau
+- Requêtes
 ---
 
 ## Mettre en cache les réponses Ajax

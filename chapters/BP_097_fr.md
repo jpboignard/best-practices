@@ -1,8 +1,16 @@
 ---
 title :  Utiliser un serveur asynchrone
+GreenIT : 77
+id : 97
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
+priority: 3
+difficulty: 3
+impact: 4
+ressources:
+- Processeur
+- Mémoire vive
 ---
 
 ## Utiliser un serveur asynchrone

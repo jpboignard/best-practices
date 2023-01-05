@@ -1,8 +1,17 @@
 ---
 title :  Eviter les redirections
+GreenIT : 45
+id : 95
 category : Support / Maintenance
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 3
+difficulty: 3
+impact: 4
+ressources:
+- Processeur
+- Réseau
+- Stockage
 ---
 
 ## Eviter les redirections

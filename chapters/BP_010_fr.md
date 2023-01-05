@@ -1,10 +1,17 @@
 ---
 title : Stocker les données statiques localement
 GreenIT : 205
-weight : 10
+id : 10
 category : Réalisation
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Réseau
+- Requêtes
+tag : 
 ---
 
 ## Stocker les données statiques localement

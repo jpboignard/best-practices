@@ -1,8 +1,17 @@
 ---
 title :  Ne se connecter à une base de données que si nécessaire
+GreenIT : 56
+id : 73
 category : Conception
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
+priority: 3
+difficulty: 3
+impact: 3
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
 ---
 
 ## Ne se connecter à une base de données que si nécessaire

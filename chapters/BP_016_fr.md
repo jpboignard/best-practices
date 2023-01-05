@@ -1,8 +1,18 @@
 ---
 title :  Utiliser certains forks applicatifs orientés "performance"
+GreenIT : 4
+id : 16
 category : Réalisation
 tiers : Datacenter
 Responsable : Administrateur systèmes
+priority: 3
+difficulty: 3
+impact: 3
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
+tag : 
 ---
 
 ## Utiliser certains forks applicatifs orientés "performance"

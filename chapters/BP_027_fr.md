@@ -1,8 +1,15 @@
 ---
 title :  Fournir une CSS print
+GreenIT : 16
+id : 27
 category : Réalisation
 tiers : Utilisateur/Terminal
 responsable : UX/UI Designer
+priority: 3
+difficulty: 4
+impact: 3
+ressources:
+- Réseau
 ---
 
 ## Fournir une CSS print

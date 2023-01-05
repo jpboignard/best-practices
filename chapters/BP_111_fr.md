@@ -1,8 +1,16 @@
 ---
 title :  Limiter la taille des emails envoyés
+GreenIT : 104
+id : 111
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
+priority: 3
+difficulty: 3
+impact: 3
+ressources:
+- Réseau
+- Requêtes
 ---
 
 ## Limiter la taille des emails envoyés

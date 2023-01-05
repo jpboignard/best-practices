@@ -1,10 +1,18 @@
 ---
 title : Favoriser un design simple, épuré, adapté au web
 GreenIT : 5
-weight : 5
+id : 5
 category : Conception
 tiers : Utilisateur/Terminal
 reponsable : UX/UI Designer
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
+tag : [ "SPRINT 1", WIP ]
 ---
 
 ## Favoriser un design simple, épuré, adapté au web

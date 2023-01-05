@@ -1,8 +1,17 @@
 ---
 title :  Favoriser les polices standards
+GreenIT : 19
+id : 29
 category : Réalisation
 tiers : Réseau
 responsable : UX/UI Designer
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Réseau
+- Requêtes
+- Stockage
 ---
 
 ## Favoriser les polices standards

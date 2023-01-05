@@ -1,8 +1,17 @@
 ---
 title :  Réduire au nécessaire les logs des serveurs
+GreenIT : 82
+id : 103
 category : Production
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
+priority: 2
+difficulty: 2
+impact: 3
+ressources:
+- Processeur
+- Mémoire vive
+- Stockage
 ---
 
 ## Réduire au nécessaire les logs des serveurs

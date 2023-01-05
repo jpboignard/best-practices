@@ -1,12 +1,17 @@
 ---
 title : Préférer la saisie assistée à l'autocomplétion
 GreenIT : 204
-weight : 4
+id : 4
 category : Spécification
 tiers : Utilisateur/Terminal
 responsable : PO/AMOA
+priority: 3
+difficulty: 3
+impact: 3
+ressources:
+- Requêtes
+tag : [ "SPRINT 1", WIP ]
 ---
-
 
 ## Préférer la saisie assistée à l'autocomplétion
 

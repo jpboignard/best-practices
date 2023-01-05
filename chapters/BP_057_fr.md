@@ -1,8 +1,16 @@
 ---
 title :  Utiliser tous les niveaux de cache du CMS
+GreenIT : 60
+id : 57
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Processeur
+- Mémoire vive
 ---
 
 ## Utiliser tous les niveaux de cache du CMS

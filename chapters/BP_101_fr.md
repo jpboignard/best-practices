@@ -1,8 +1,18 @@
 ---
 title :  Ajouter des entêtes Expires ou Cache-Control
+GreenIT : 78
+id :  101
 category : Production
 tiers : Réseau
 responsable : Administrateur systèmes
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
+- Requêtes
 ---
 
 ## Ajouter des entêtes Expires ou Cache-Control

@@ -1,8 +1,17 @@
 ---
 title :  Eviter d'effectuer des requêtes SQL à l’intérieur d’une boucle
+GreenIT : 55
+id : 49
 category : Réalisation
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
+priority: 3
+difficulty: 3
+impact: 3
+ressources:
+- Processeur
+- Mémoire vive
+- Réseau
 ---
 
 ## Eviter d'effectuer des requêtes SQL à l’intérieur d’une boucle

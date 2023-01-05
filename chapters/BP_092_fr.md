@@ -1,8 +1,16 @@
 ---
 title :  Mettre les caches entièrement en RAM (opcode et kvs)
+GreenIT : 85
+id : 92
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
+priority: 2
+difficulty: 2
+impact: 3
+ressources:
+- Processeur
+- Stockage
 ---
 
 ## Mettre les caches entièrement en RAM (opcode et kvs)

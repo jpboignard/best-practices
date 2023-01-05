@@ -1,8 +1,15 @@
 ---
 title :  Réduire au maximum le repaint (appearence) et le reflow (layout)
+GreenIT : 42
+id : 43
 category : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
+priority: 4
+difficulty: 4
+impact: 4
+ressources:
+- Processeur
 ---
 
 ## Réduire au maximum le repaint (appearence) et le reflow (layout)

@@ -1,8 +1,15 @@
 ---
 title :  Compresser les fichiers CSS, JavaScript, HTML et SVG
+GreenIT : 86
+id : 64
 category : Réalisation
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
+priority: 4
+difficulty: 3
+impact: 4
+ressources:
+- Réseau
 ---
 
 ## Compresser les fichiers CSS, JavaScript, HTML et SVG
