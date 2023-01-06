@@ -1,6 +1,6 @@
 ---
 title :  Utiliser un CDN
-GreenIT : 75 
+GreenIT : 75
 Weight : 98
 category : Production
 tiers : Datacenter

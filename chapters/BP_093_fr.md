@@ -1,6 +1,6 @@
 ---
 title :  Stocker les données dans le cloud
-GreenIT : 71 
+GreenIT : 71
 Weight : 93
 category : Production
 tiers : Datacenter

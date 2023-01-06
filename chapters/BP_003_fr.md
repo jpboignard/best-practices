@@ -16,7 +16,6 @@ ressources:
 - Stockage
 gr491Recommandation : "UX/UI 7. Barebone Iteration: Itérer votre solution jusqu'au minimalisme acceptable par vos utilisateurs"
 gr491Critere : https://gr491.isit-europe.org/crit.php?id=7-3052-uxui-il-y-a-plusieurs-scenarios-dacces-aux
-gr491Search : 
 tag : [ Conseil, UX/UI ]
 ---
 

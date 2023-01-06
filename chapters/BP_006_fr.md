@@ -12,8 +12,6 @@ ressources:
 - Processeur
 - Réseau
 gr491Recommandation : "UX/UI 7. Barebone Iteration: Itérer votre solution jusqu'au minimalisme acceptable par vos utilisateurs"
-gr491Critere : 
-gr491Search : 
 tag : [ GR491-NOT-FOUND, UX/UI ]
 ---
 

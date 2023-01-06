@@ -13,7 +13,6 @@ ressources:
 - Réseau
 gr491Recommandation : "UX/UI 7. Barebone Iteration: Itérer votre solution jusqu'au minimalisme acceptable par vos utilisateurs"
 gr491Critere : https://gr491.isit-europe.org/crit.php?id=8-5056-frontend-la-facilite-dutilisation-et-reperage-dans-le
-gr491Search : 
 mesurer : Le nombre de pages inéligibles au _bfcache_
 tag : [ Recommandation, UX/UI ]
 ---
@@ -48,7 +47,7 @@ Les navigateurs possèdent une fonction de navigation rapide dans l’historique
 souvent nommée _back-forward cache_ ou encore _bfcache_.
 
 Contrairement au cache HTTP qui permet de garder en mémoire les réponses aux requêtes précédemment effectuées et donc d'éviter de les générer plusieurs fois inutilement et d'accélérer le chargement de pages, le cache _bfcache_ permet de garder en mémoire une page entière. 
-Néanmoins, comme l'utilisation de cette fonctionnalité mobilise des ressourcesmachine supplémentaires côté utilisateur, il faut veiller à alléger au maximum les fonctionnalités des pages stockées avec le _bfcache_. 
+Néanmoins, comme l'utilisation de cette fonctionnalité mobilise des resources machine supplémentaires côté utilisateur, il faut veiller à alléger au maximum les fonctionnalités des pages stockées avec le _bfcache_.
 Par ailleurs, l'utilisation de _bfcache_ implique certaines précautions notamment lorsque le délai d'attente est dépassé (_setTimeout_). 
 En effet, comme les navigateurs suspendent l'exécution des timers en attente et les tâches dans les files d'attente JavaScript, et reprennent le traitement des tâches lorsque la page est restaurée à partir du _bfcache_, il peut y avoir des situations problématiques. 
 Par exemple, si le navigateur suspend une tâche requise dans le cadre d'une transaction IndexedDB ou d'utilisation d'API et que d'autres onglets (utilisant les mêmes bases de données IndexedDB) sont ouverts à ce moment-là, le navigateur ne mettra pas en cache les différentes pages.

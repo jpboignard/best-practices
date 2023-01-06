@@ -1,6 +1,6 @@
 ---
 title :  Utiliser un cache HTTP
-GreenIT : 72 
+GreenIT : 72
 Weight : 99
 category : Production
 tiers : Réseau

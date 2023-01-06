@@ -17,7 +17,7 @@ gr491Critere : https://gr491.isit-europe.org/crit.php?id=1-7002-backend-chaque-e
 tag : [ Incontournable, BACK-END ]
 ---
 
-## Eviter d'effectuer des requêtes SQL à l’intérieur d’une boucle
+## Éviter d'effectuer des requêtes SQL à l’intérieur d’une boucle
 
 ### Identifiants
 
