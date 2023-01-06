@@ -1,5 +1,5 @@
 ---
-title :  Éviter les animations Javascript / CSS
+title :  Éviter les animations JavaScript / CSS
 GreenIT : 810
 Weight : 39
 category : Conception

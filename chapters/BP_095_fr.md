@@ -1,5 +1,5 @@
 ---
-title :  Eviter les redirections
+title :  Éviter les redirections
 GreenIT : 45
 Weight : 95
 category : Support / Maintenance

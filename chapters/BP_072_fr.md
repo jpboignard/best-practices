@@ -1,5 +1,5 @@
 ---
-title :  Eviter d'effectuer des requêtes SQL à l’intérieur d’une boucle
+title :  Éviter d'effectuer des requêtes SQL à l’intérieur d’une boucle
 GreenIT : 55
 Weight : 49
 category : Réalisation

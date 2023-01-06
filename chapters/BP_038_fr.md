@@ -42,9 +42,9 @@ tag : [ GR491-NOT-FOUND, FRONT-END ]
 ### Description
 
 Si votre page web comporte une ou plusieurs zones de contenus qui nécessitent un taux de rafraîchissement élevé, alors nous vous conseillons de procéder à un rechargement uniquement de celles-ci et non pas de toute la page.
-Pour cela vous pouvez utiliser plusieurs techniques généralement Javascript couramment appelées AJAX mais qui peuvent aussi utilisées un Service Worker, un Web Component ou un développement sur mesure.
+Pour cela vous pouvez utiliser plusieurs techniques généralement JavaScript couramment appelées AJAX mais qui peuvent aussi utilisées un Service Worker, un Web Component ou un développement sur mesure.
 
-Il est même envisageable de ne pas inclure ces parties dans l'appel HTTP de la page pour l'hydrater avec ces zones dynamiques en Javascript, ce que certains appellent "component islands" ou "islands architecture". L'intérêt étant de pouvoir conserver une solution de cache pour la page "container" et de ne recharger que les "ilots" de contenu qui le nécessitent.
+Il est même envisageable de ne pas inclure ces parties dans l'appel HTTP de la page pour l'hydrater avec ces zones dynamiques en JavaScript, ce que certains appellent "component islands" ou "islands architecture". L'intérêt étant de pouvoir conserver une solution de cache pour la page "container" et de ne recharger que les "ilots" de contenu qui le nécessitent.
 
 ### Exemple
 

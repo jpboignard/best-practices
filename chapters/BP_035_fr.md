@@ -1,5 +1,5 @@
 ---
-title :  Eviter d'utiliser des images matricielles pour l'interface
+title :  Éviter d'utiliser des images matricielles pour l'interface
 GreenIT : 101
 Weight : 35
 category : Utilisation
@@ -16,7 +16,7 @@ mesurer : Le nombre d'images matricielles pour l'URL testée
 tag : [ Recommandation, CONTENUS, Image ]
 ---
 
-## Eviter d'utiliser des images matricielles pour l'interface
+## Éviter d'utiliser des images matricielles pour l'interface
 
 ### Identifiants
 

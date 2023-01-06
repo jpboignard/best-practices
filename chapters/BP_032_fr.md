@@ -10,7 +10,7 @@ difficulty: 4
 impact: 4
 ressources:
 - Réseau
-mesurer : Le nombre d'URL intégrant une quantité et / ou un nombre significatif de code CSS / Javascript (inline)
+mesurer : Le nombre d'URL intégrant une quantité et / ou un nombre significatif de code CSS / JavaScript (inline)
 tag : [ GR491-NOT-FOUND, CSS ]
 ---
 
@@ -69,4 +69,4 @@ mais plutôt :
 
 | Le nombre ...     | est inférieur ou égal à   |  
 |-------------------|:-------------------------:|
-| d'URL intégrant une quantité et / ou un nombre significatif de code CSS / Javascript (inline)   | 2  |
+| d'URL intégrant une quantité et / ou un nombre significatif de code CSS / JavaScript (inline)   | 2  |

@@ -39,13 +39,13 @@ tag : [ CSS ]
 
 ### Description
 
-La combinaison de feuilles de style CSS ou de bibliothèques Javascript permet de réduire le nombre de requêtes HTTP.
+La combinaison de feuilles de style CSS ou de bibliothèques JavaScript permet de réduire le nombre de requêtes HTTP.
 
 ### Exemples
 
 Dans Wordpress, le plugin gratuit, `Autoptimize`, permet de combiner simplement les fichiers CSS.
 
-Avec Webpack, le plugin `webpack-merge-and-include-globally` facilite la fusion des fichiers CSS et Javascript.
+Avec Webpack, le plugin `webpack-merge-and-include-globally` facilite la fusion des fichiers CSS et JavaScript.
 
 ### Principe de validation
 

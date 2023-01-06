@@ -16,7 +16,7 @@ mesurer : Le nombre de librairies dont des portions non indispensables sont util
 tag : [ GR491-NOT-FOUND, FRONT-END ]
 ---
 
-## N'utilisez que les portions indispensables des librairies Javascript et frameworks CSS
+## N'utilisez que les portions indispensables des librairies JavaScript et frameworks CSS
 
 ### Identifiants
 

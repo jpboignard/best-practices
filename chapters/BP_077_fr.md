@@ -43,14 +43,14 @@ tag : [ Incontournable, BACK-END ]
 
 ### Description
 
-Utiliser un outil de minification CSS, Javascript, HTML et SVG permet de supprimer les espaces inutiles, les commentaires des développeurs, les sauts de ligne, les délimiteurs de blocs et ainsi réduire leur taille.
+Utiliser un outil de minification CSS, JavaScript, HTML et SVG permet de supprimer les espaces inutiles, les commentaires des développeurs, les sauts de ligne, les délimiteurs de blocs et ainsi réduire leur taille.
 
 ### Exemple
 
 Il existe différents outils pour minifier comme par exemple:
 
 - CSS: cssnano, csso ou clean-css 
-- Javascript: Terser, UglifyJS ou Babel-minify 
+- JavaScript: Terser, UglifyJS ou Babel-minify 
 - HTML: htmlnano, HTMLMinifier
 - SVG: SVGO, minify-xml ou équivalent
 
