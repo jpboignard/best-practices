@@ -1,5 +1,5 @@
 ---
-title :  Limiter les emails lourds et redondants
+title :  Limiter les e-mails lourds et redondants
 GreenIT : 102
 Weight : 109
 category : Utilisation
@@ -14,7 +14,7 @@ ressources:
 - Requêtes
 ---
 
-## Limiter les emails lourds et redondants
+## Limiter les e-mails lourds et redondants
 
 ### Identifiants
 

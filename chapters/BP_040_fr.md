@@ -1,5 +1,5 @@
 ---
-title :  N'utilisez que les portions indispensables des librairies Javascript et frameworks CSS
+title :  N'utilisez que les portions indispensables des librairies JavaScript et frameworks CSS
 GreenIT : 811
 Weight : 40
 category : Conception

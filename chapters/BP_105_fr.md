@@ -1,6 +1,6 @@
 ---
 title :  "Apache Vhost : désactiver le AllowOverride"
-GreenIT : 81 
+GreenIT : 81
 Weight : 105
 category : Production
 tiers : Datacenter

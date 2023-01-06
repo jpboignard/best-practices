@@ -15,7 +15,7 @@ ressources:
 lighthouse : [ redirects ]
 ---
 
-## Eviter les redirections
+## Éviter les redirections
 
 ### Identifiants
 

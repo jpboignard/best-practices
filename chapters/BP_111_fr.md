@@ -1,5 +1,5 @@
 ---
-title :  Limiter la taille des emails envoyés
+title :  Limiter la taille des e-mails envoyés
 GreenIT : 104
 Weight : 111
 category : Utilisation
@@ -13,7 +13,7 @@ ressources:
 - Requêtes
 ---
 
-## Limiter la taille des emails envoyés
+## Limiter la taille des e-mails envoyés
 
 ### Identifiants
 
