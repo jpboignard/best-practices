@@ -12,6 +12,7 @@ ressources:
 - Processeur
 - Mémoire vive
 - Réseau
+tag : [ GR491-NOT-FOUND, FRONT-END ]
 ---
 
 ## Utiliser le rechargement partiel d'une zone de contenu

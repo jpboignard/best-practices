@@ -10,6 +10,7 @@ difficulty: 3
 impact: 2
 ressources:
 - Processeur
+lighthouse : [ structured-data ]
 ---
 
 ## Valider votre code avec un Linter

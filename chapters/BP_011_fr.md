@@ -12,7 +12,9 @@ ressources:
 - Processeur
 - Mémoire vive
 - Réseau
-tag : 
+gr491Recommandation : "STRATEGIE 4. Prévoir, préparer et valider les éléments techniques du projet pour la conformité avec le Numérique Responsable"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=4-1059-strategie-dans-les-choix-buy/build-la-dimension-nr
+tag : [ Conseil, STRATEGIE ]
 ---
 
 ## Favoriser un développement sur-mesure à l'usage d'un CMS

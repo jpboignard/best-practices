@@ -11,7 +11,9 @@ impact: 4
 ressources:
 - Réseau
 - Requêtes
-tag : 
+gr491Recommandation : "BACK-END 1. Réduire l'impact des données de leur stockage et accès"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=1-7003-backend-les-moteurs-de-gestion-de-bases-de
+tag : [ Conseil, BACK-END ]
 ---
 
 ## Stocker les données statiques localement

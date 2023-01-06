@@ -10,6 +10,10 @@ difficulty: 3
 impact: 2
 ressources:
 - Réseau
+gr491Recommandation : "FRONT-END 9. Implémenter des solutions techniques dont l'impact est le plus faible"
+gr491Search : https://gr491.isit-europe.org?famille=frontend&num_reco=9
+mesurer : Le nombre de notations CSS non abrégés 
+tag : [ FRONT-END , FRONT-END, CSS ]
 ---
 
 ## Utiliser les notations CSS abrégées

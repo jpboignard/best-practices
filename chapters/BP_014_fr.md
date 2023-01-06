@@ -12,7 +12,9 @@ ressources:
 - Processeur
 - Mémoire vive
 - Stockage
-tag :
+gr491Recommandation : "ARCHITECTURE 6. Définir un modèle de production évolutif"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=6-6031-architecture-les-efforts-dadaptation-aux-contraintes-environnementales-realises
+tag : [ Recommandation, ARCHITECTURE ]
 ---
 
 ## Créer une architecture applicative modulaire

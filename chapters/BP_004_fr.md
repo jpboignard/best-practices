@@ -10,7 +10,11 @@ difficulty: 3
 impact: 3
 ressources:
 - Requêtes
-tag : [ "SPRINT 1", WIP ]
+gr491Recommandation : "UX/UI 7. Barebone Iteration: Itérer votre solution jusqu'au minimalisme acceptable par vos utilisateurs"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=7-3051-uxui-lutilisation-des-moteurs-de-recherches-internes-au
+gr491Search : 
+mesurer : Le nombre de champs en autocomplétion
+tag : [ Recommandation, UX/UI ]
 ---
 
 ## Préférer la saisie assistée à l'autocomplétion

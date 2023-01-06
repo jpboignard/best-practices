@@ -11,7 +11,10 @@ impact: 5
 ressources:
 - Processeur
 - Réseau
-tag : 
+gr491Recommandation : "UX/UI 7. Barebone Iteration: Itérer votre solution jusqu'au minimalisme acceptable par vos utilisateurs"
+gr491Critere : 
+gr491Search : 
+tag : [ GR491-NOT-FOUND, UX/UI ]
 ---
 
 ## Privilégier une approche "mobile first", à défaut un chargement adaptatif

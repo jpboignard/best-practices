@@ -14,7 +14,10 @@ ressources:
 - Réseau
 - Requêtes
 - Stockage
-tag : [ Obligatoire, "PO/AMOA", "Sprint 1" , "TODO"]
+gr491Recommandation : "UX/UI 5. Less is More : Concentrez vous sur les fonctionnalités essentielles et simplifiez votre interface"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=5-3030-uxui-selon-des-etudes--70%-des-fonctionnalites
+gr491Search :
+tag : [ Incontournable, UX/UI ]
 ---
 
 ## Éliminer les fonctionnalités non essentielles

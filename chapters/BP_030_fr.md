@@ -12,7 +12,11 @@ ressources:
 - Réseau
 - Requêtes
 - Stockage
+gr491Recommandation : "FRONT-END 9. Implémenter des solutions techniques dont l'impact est le plus faible"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=9-5066-frontend-les-techniques-sprite-css-permettent-de-reduire
+tag : [ Conseil, FRONT-END, Image ]
 ---
+
 
 ## Préférer les glyphs aux images
 

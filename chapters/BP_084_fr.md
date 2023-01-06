@@ -11,6 +11,8 @@ impact: 4
 ressources:
 - Réseau
 - Requêtes
+lighthouse : [ is-on-https ]
+tag : [ "GR491-NOT-FOUND" ]
 ---
 
 ## Favoriser HSTS Preload list aux redirections 301

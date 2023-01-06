@@ -10,6 +10,11 @@ difficulty: 4
 impact: 4
 ressources:
 - Réseau
+gr491Recommandation : "UX/UI https://gr491.isit-europe.org?famille=uxui&num_reco=8"
+gr491Search : https://gr491.isit-europe.org?famille=uxui&num_reco=8
+mesurer : Le nombre d'images non optimisées
+lighthouse : [image-aspect-ratio, image-size-responsive]
+tag : [ UX/UI, Image ]
 ---
 
 ## Optimiser les images vectorielles

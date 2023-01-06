@@ -11,6 +11,10 @@ impact: 4
 ressources:
 - Réseau
 - Requêtes
+gr491Recommandation : "BACK-END 3. Limiter la volumétrie des échanges"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=3-7041-backend-les-echanges-indispensables-doivent-permettre-de-reduire
+lighthouse : [unminified-css, unminified-javascript, unused-css-rules, unused-javascript]
+tag : [ Incontournable, BACK-END ]
 ---
 
 ## Minifier les fichiers CSS, JavaScript, HTML et SVG

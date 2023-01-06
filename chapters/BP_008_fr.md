@@ -12,7 +12,10 @@ ressources:
 - Mémoire vive
 - Réseau
 - Requêtes
-tag : 
+gr491Recommandation : "BACK-END 2. Utiliser les composants techniques qui améliorent les aspects NR, sécurité et performance"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=2-7027-backend-le-traitement-differe-doperations-permet-de-diluer
+gr491Seach : https://gr491.isit-europe.org/search.php?search=asynchrone&go=Rechercher&famille=&inc=
+tag : [ Conseil, BACK-END ]
 ---
 
 ## Proposer un traitement asynchrone lorsque c'est possible

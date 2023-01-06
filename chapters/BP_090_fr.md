@@ -10,6 +10,10 @@ difficulty: 2
 impact: 3
 ressources:
 - Consommation électrique
+gr491Recommandation : "Hébergement 4. Suivre les impacts de l'hébergeur"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=4-8039-hebergement-lactivite-dun-datacenter-necessite-de-lenergie.-les
+gr491Search : https://gr491.isit-europe.org/?famille=hebergement
+tag : [ Hébergement ]
 ---
 
 ## Optimiser l'efficacité énergétique des serveurs

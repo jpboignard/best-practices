@@ -12,6 +12,7 @@ ressources:
 - Réseau
 - Stockage
 tag:
+lighthouse : [uses-text-compression]
 ---
 
 ## Compresser les documents

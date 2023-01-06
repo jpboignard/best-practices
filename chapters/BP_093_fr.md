@@ -10,6 +10,9 @@ difficulty: 3
 impact: 2
 ressources:
 - Stockage
+gr491Recommandation : "STRATEGIE 8. Agir en faveur de la réduction des impacts du SI en optimisant la valorisation de la data (*NEW)"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=8-1081-strategie-que-ce-soit-pour-le-si-operationnel
+tag : [ STRATEGIE, Data ]
 ---
 
 ## Stocker les données dans le cloud

@@ -10,6 +10,8 @@ difficulty: 5
 impact: 2
 ressources:
 - Processeur
+tag : [ Obligatoire, GR491-NOT-FOUND ]
+lighthouse : [ doctype, html-has-lang, html-lang-valid, hreflang, valid-lang ]
 ---
 
 ## Valider les pages auprès du W3C

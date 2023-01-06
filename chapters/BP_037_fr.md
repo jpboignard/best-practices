@@ -11,6 +11,10 @@ impact: 5
 ressources:
 - Processeur
 - Réseau
+gr491Recommandation : "FRONT-END 9. Implémenter des solutions techniques dont l'impact est le plus faible"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=9-5068-frontend-lors-du-chargement-du-service-sur-le
+mesurer : Le nombre d'images, d'iframes et de vidéos appelés sans lazy loading, en dessous de la ligne de flottaison
+tag : [ Conseil, FRONT-END ]
 ---
 
 ## Utiliser le chargement paresseux

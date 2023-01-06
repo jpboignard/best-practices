@@ -10,7 +10,10 @@ difficulty: 3
 impact: 2
 ressources:
 - Processeur
-tag :
+gr491Recommandation : "FRONT-END 9. Implémenter des solutions techniques dont l'impact est le plus faible"
+gr491Search : https://gr491.isit-europe.org?famille=frontend&num_reco=9
+mesurer : Le nombre de sélecteurs CSS qui n'utilisent ni d'id, ni de class et ni d'attribut 
+tag : [ FRONT-END, CSS ]
 ---
 
 ## Ecrire des sélecteurs CSS efficaces

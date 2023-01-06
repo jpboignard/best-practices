@@ -11,6 +11,10 @@ impact: 3
 ressources:
 - Processeur
 - Stockage
+gr491Recommandation : "Plusieurs recommandations dans les familles ARCHITECTURE / BACK-END / FRONT-END"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=2-7031-backend-la-reduction-des-volumes-dechanges-des-operations
+gr491Search : https://gr491.isit-europe.org/search.php?search=cache&go=Rechercher&famille=&inc=
+tag : [ Cache ]
 ---
 
 ## Mettre les caches entièrement en RAM (opcode et kvs)

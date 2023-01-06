@@ -12,7 +12,11 @@ ressources:
 - Processeur
 - Mémoire vive
 - Réseau
-tag : [ "SPRINT 1", WIP ]
+gr491Recommandation : "UX/UI 7. Barebone Iteration: Itérer votre solution jusqu'au minimalisme acceptable par vos utilisateurs"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=5-3029-uxui-des-elements/composants-visuels-sonores-et-tactiles-peuvent
+gr491Search : https://gr491.isit-europe.org/crit.php?id=7-3051-uxui-lutilisation-des-moteurs-de-recherches-internes-au
+mesurer : Le nombre de pages dont le design est plus chargé que nécessaire
+tag : [ Incontournable, UX/UI ]
 ---
 
 ## Favoriser un design simple, épuré, adapté au web

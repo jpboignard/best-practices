@@ -12,6 +12,10 @@ ressources:
 - Processeur
 - Mémoire vive
 - Stockage
+gr491Recommandation : "BACK-END 2. Utiliser les composants techniques qui améliorent les aspects NR, sécurité et performance"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=2-7037-backend-la-mise-en-oeuvre-de-services-est
+gr491Search : https://gr491.isit-europe.org/search.php?search=logs&go=Rechercher&famille=&inc=
+tag : [ Conseil, BACK-END ]
 ---
 
 ## Désactiver les logs binaires

@@ -11,6 +11,11 @@ impact: 4
 ressources:
 - Processeur
 - Réseau
+gr491Recommandation : "CONTENUS 2. Réduire l'empreinte des contenus statiques"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=2-4008-contenus-la-transmission-de-donnees-compressees-est-indispensable
+mesurer : Le nombre d'images redimensionnées dans le navigateur
+lighthouse: [ unsized-images ]
+tag : [ Incontournable , CONTENUS, Image ]
 ---
 
 ## Ne pas redimensionner les images coté navigateur

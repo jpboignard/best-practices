@@ -8,6 +8,10 @@ responsable : Architecte Logiciel/Développeur
 priority: 4
 difficulty: 3
 impact: 4
+gr491Recommandation : "FRONT-END 9. Implémenter des solutions techniques dont l'impact est le plus faible"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=9-5067-frontend-parmi-les-elements-de-presentation-utilises-dans
+mesurer : Le nombre d'images qui auraient pu être remplacées par des CSS
+tag : [ Recommandation, FRONT-END, CSS, Image ]
 ressources:
 - Réseau
 - Requêtes

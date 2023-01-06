@@ -12,6 +12,10 @@ ressources:
 - Réseau
 - Requêtes
 - Stockage
+gr491Recommandation : "UX/UI 8. Ingénierie média : alléger au maximum les médias du service numérique ( images, animations, contenu ... )"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=8-3061-uxui-le-volume-de-donnees-echangees-pour-la
+lighthouse : [modern-image-formats]
+tag : [ Recommandation, UX/UI, image ]
 ---
 
 ## Optimiser les images

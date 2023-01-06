@@ -10,6 +10,10 @@ difficulty: 4
 impact: 4
 ressources:
 - Réseau
+gr491Recommandation : "CONTENUS 2. Réduire l'empreinte des contenus statiques"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=8-3061-uxui-le-volume-de-donnees-echangees-pour-la
+mesurer : Le nombre d'images matricielles pour l'URL testée 
+tag : [ Recommandation, CONTENUS, Image ]
 ---
 
 ## Eviter d'utiliser des images matricielles pour l'interface

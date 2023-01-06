@@ -10,6 +10,7 @@ difficulty: 3
 impact: 4
 ressources:
 - Requêtes
+tag : [ CSS ]
 ---
 
 ## Combiner les fichiers CSS et JavaScript

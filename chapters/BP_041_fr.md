@@ -10,6 +10,8 @@ difficulty: 4
 impact: 4
 ressources:
 - Processeur
+mesurer : Le nombre d'insertions dans le DOM réalisées lorsque cette même partie du DOM est traversée par un code JavaScript
+tag : [ GR491-NOT-FOUND, FRONT-END ]
 ---
 
 

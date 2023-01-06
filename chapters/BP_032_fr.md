@@ -10,7 +10,8 @@ difficulty: 4
 impact: 4
 ressources:
 - Réseau
-tag : 
+mesurer : Le nombre d'URL intégrant une quantité et / ou un nombre significatif de code CSS / Javascript (inline) 
+tag : [ GR491-NOT-FOUND, CSS ]
 ---
 
 ## Externaliser les CSS et JavaScript

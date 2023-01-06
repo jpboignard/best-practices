@@ -12,6 +12,11 @@ ressources:
 - Réseau
 - Requêtes
 - Stockage
+gr491Recommandation : "CONTENUS 2. Réduire l'empreinte des contenus statiques"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=2-4016-contenus-les-polices-systemes-sont-embarquees-dans-les
+mesurer : Le nombre de polices téléchargées
+lighthouse : [font-display, font-size]
+tag : [ Recommandation, CONTENUS, Police ]
 ---
 
 ## Favoriser les polices standards

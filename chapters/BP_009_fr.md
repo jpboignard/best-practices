@@ -11,7 +11,10 @@ impact: 4
 ressources:
 - Réseau
 - Requêtes
-tag : 
+gr491Recommandation : "UX/UI 7. Barebone Iteration: Itérer votre solution jusqu'au minimalisme acceptable par vos utilisateurs"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=7-3051-uxui-lutilisation-des-moteurs-de-recherches-internes-au
+mesurer : Le nombre de requêtes HTTP
+tag : [ Recommandation, UX/UI ]
 ---
 
 ## Limiter le nombre de requêtes HTTP

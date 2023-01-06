@@ -10,6 +10,9 @@ difficulty: 3
 impact: 4
 ressources:
 - Réseau
+gr491Recommandation : "BACK-END 3. Limiter la volumétrie des échanges"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=3-7041-backend-les-echanges-indispensables-doivent-permettre-de-reduire
+tag : [ Incontournable, BACK-END ]
 ---
 
 ## Compresser les fichiers CSS, JavaScript, HTML et SVG

@@ -13,7 +13,9 @@ ressources:
 - Mémoire vive
 - Réseau
 - Stockage
-tag :
+gr491Recommandation : "UX/UI 8. Ingénierie média : alléger au maximum les médias du service numérique ( images, animations, contenu ... )"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=8-3057-uxui-le-volume-de-donnees-transferees-augmente-lempreinte
+tag : [ Incontournable, UX/UI ]
 ---
 
 ## Choisir un format de données adapté

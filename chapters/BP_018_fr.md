@@ -10,7 +10,10 @@ difficulty: 3
 impact: 4
 ressources:
 - Requêtes
-tag :
+gr491Recommandation : "FRONT-END 6. S'assurer que l'utilisation du service permet le contrôle des impacts"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=6-5044-frontend-les-mecanismes-de-cache-et-la-mise
+mesurer : Le nombre de domaines servant les ressources
+tag : [ Recommandation, FRONT-END]
 ---
 
 ## Limiter le nombre de domaine servant les ressources

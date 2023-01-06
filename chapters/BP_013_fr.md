@@ -11,7 +11,9 @@ impact: 5
 ressources:
 - Processeur
 - Mémoire vive
-tag : 
+gr491Recommandation : "CONTENUS 2. Réduire l'empreinte des contenus statiques"
+gr491Search : https://gr491.isit-europe.org?famille=contenus&num_reco=2
+tag : [ GR491-NOT-FOUND, CONTENUS ]
 ---
 
 ## Favoriser les pages statiques

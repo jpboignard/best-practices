@@ -12,6 +12,8 @@ ressources:
 - Processeur
 - Mémoire vive
 - Réseau
+mesurer : Le nombre de librairies dont des portions non indispensables sont utilisées
+tag : [ GR491-NOT-FOUND, FRONT-END ]
 ---
 
 ## N'utilisez que les portions indispensables des librairies Javascript et frameworks CSS

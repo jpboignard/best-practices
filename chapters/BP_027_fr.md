@@ -10,6 +10,10 @@ difficulty: 4
 impact: 3
 ressources:
 - Réseau
+gr491Recommandation : "FRONT-END 9. Implémenter des solutions techniques dont l'impact est le plus faible"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=9-5070-frontend-les-flux-de-dematerialisation-sont-parfois-rompus
+mesurer : Le nombre de CSS print manquante
+tag : [ Incontournable , FRONT-END, CSS ]
 ---
 
 ## Fournir une CSS print

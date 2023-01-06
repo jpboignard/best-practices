@@ -12,6 +12,7 @@ ressources:
 - Processeur
 - Réseau
 - Stockage
+lighthouse : [ redirects ]
 ---
 
 ## Eviter les redirections

@@ -11,6 +11,10 @@ impact: 4
 ressources:
 - Réseau
 - Requêtes
+gr491Recommandation : "UX/UI 5. Less is More : Concentrez vous sur les fonctionnalités essentielles et simplifiez votre interface"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=5-3037-uxui-il-est-courant-dutiliser-des-services-tiers
+mesurer : Le nombre de librairies externes
+tag : [ Conseil, UX/UI ]
 ---
 
 ## Remplacer les boutons officiels de partage des réseaux sociaux

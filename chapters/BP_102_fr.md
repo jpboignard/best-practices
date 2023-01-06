@@ -11,6 +11,9 @@ impact: 4
 ressources:
 - Réseau
 - Requêtes
+gr491Recommandation : "Plusieurs recommandations dans les familles ARCHITECTURE / BACK-END / FRONT-END"
+gr491Search : https://gr491.isit-europe.org/search.php?search=cache&go=Rechercher&famille=&inc=
+tag : [ Cache ]
 ---
 
 ## Mettre en cache les réponses Ajax

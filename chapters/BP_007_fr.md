@@ -11,7 +11,11 @@ impact: 3
 ressources:
 - Processeur
 - Réseau
-tag : 
+gr491Recommandation : "UX/UI 7. Barebone Iteration: Itérer votre solution jusqu'au minimalisme acceptable par vos utilisateurs"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=8-5056-frontend-la-facilite-dutilisation-et-reperage-dans-le
+gr491Search : 
+mesurer : Le nombre de pages inéligibles au _bfcache_
+tag : [ Recommandation, UX/UI ]
 ---
 
 ## Respecter le principe de navigation rapide dans l’historique

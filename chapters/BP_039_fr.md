@@ -11,6 +11,8 @@ impact: 5
 ressources:
 - Processeur
 - Mémoire vive
+mesurer : Le nombre d'animations JS / CSS par page
+tag : [ GR491-NOT-FOUND, FRONT-END ]
 ---
 
 ## Éviter les animations Javascript / CSS

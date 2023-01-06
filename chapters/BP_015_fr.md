@@ -12,7 +12,9 @@ ressources:
 - Processeur
 - Mémoire vive
 - Réseau
-tag :
+gr491Recommandation : "BACK-END 2. Utiliser les composants techniques qui améliorent les aspects NR, sécurité et performance"
+gr491Search : https://gr491.isit-europe.org?famille=backend&num_reco=2
+tag : [ BACK-END ]
 ---
 
 ## Choisir les technologies les plus adaptées
