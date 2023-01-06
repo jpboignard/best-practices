@@ -1,7 +1,7 @@
 ---
 title :  Optimiser les PDF
 GreenIT : 98
-id : 108
+Weight : 108
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur

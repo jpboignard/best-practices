@@ -1,7 +1,7 @@
 ---
 title :  Grouper les déclarations CSS similaires
 GreenIT : 14
-id : 25
+Weight : 25
 category : Réalisation
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur

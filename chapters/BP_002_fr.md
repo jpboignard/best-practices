@@ -1,7 +1,7 @@
 ---
 title : Quantifier précisément le besoin
 GreenIT : 110
-id : 2
+Weight : 2
 category : Spécification
 tiers : Utilisateur/Terminal
 responsable : PO/AMOA

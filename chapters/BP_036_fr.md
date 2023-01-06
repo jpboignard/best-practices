@@ -1,7 +1,7 @@
 ---
 title :  Optimiser les images vectorielles
 GreenIT : 1050
-id : 36
+Weight : 36
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur

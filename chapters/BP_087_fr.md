@@ -1,7 +1,7 @@
 ---
 title :  Privilégier un fournisseur d'électricité écoresponsable
 GreenIT : 67
-id : 87
+Weight : 87
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes

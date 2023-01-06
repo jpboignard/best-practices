@@ -1,7 +1,7 @@
 ---
 title :  Modifier plusieurs propriétés CSS en 1 seule fois
 GreenIT : 34
-id : 45
+Weight : 45
 category : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur

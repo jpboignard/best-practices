@@ -1,7 +1,7 @@
 ---
 title :  Afficher des pages d'erreur statiques
 GreenIT : 46
-id : 96
+Weight : 96
 category : Conception
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur

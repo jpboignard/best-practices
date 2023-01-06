@@ -1,7 +1,7 @@
 ---
 title :  Ajouter des entêtes Expires ou Cache-Control
 GreenIT : 78
-id :  101
+Weight :  101
 category : Production
 tiers : Réseau
 responsable : Administrateur systèmes

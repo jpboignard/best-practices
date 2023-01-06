@@ -1,7 +1,7 @@
 ---
 title :  Ecrire des sélecteurs CSS efficaces
 GreenIT : 13
-id : 24
+Weight : 24
 category : Réalisation
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur

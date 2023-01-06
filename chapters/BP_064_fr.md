@@ -1,7 +1,7 @@
 ---
 title :  Mettre en cache les données calculées souvent utilisées
 GreenIT : 47
-id : 64
+Weight : 64
 category : Conception
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur

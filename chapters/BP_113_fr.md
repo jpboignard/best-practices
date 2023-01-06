@@ -1,7 +1,7 @@
 ---
 title :  Adapter les textes au web
 GreenIT : 100
-id :  113
+Weight :  113
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur

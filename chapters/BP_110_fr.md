@@ -1,7 +1,7 @@
 ---
 title :  N'utiliser que des fichiers double opt-in
 GreenIT : 103
-id : 110
+Weight : 110
 category : Conception
 tiers : Utilisateur/Terminal
 responsable : PO/AMOA

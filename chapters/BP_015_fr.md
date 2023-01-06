@@ -1,7 +1,7 @@
 ---
 title : Choisir les technologies les plus adaptées
 GreenIT : 1
-id : 15
+Weight : 15
 category : Réalisation
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur

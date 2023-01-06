@@ -1,7 +1,7 @@
 ---
 title : Éliminer les fonctionnalités non essentielles
 GreenIT : 109
-id : 1
+Weight : 1
 category : Spécification
 tiers : Utilisateur/Terminal
 reponsable : PO/AMOA

@@ -1,7 +1,7 @@
 ---
 title : Favoriser un développement sur-mesure à l'usage d'un CMS
 GreenIT : 2
-id : 11
+Weight : 11
 category : Conception
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur

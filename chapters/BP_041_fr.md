@@ -1,7 +1,7 @@
 ---
 title :  Ne pas faire de modification du DOM lorsqu’on le traverse
 GreenIT : 43
-id : 41
+Weight : 41
 category : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur

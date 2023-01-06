@@ -1,7 +1,7 @@
 ---
 title :  Éviter les animations Javascript / CSS
 GreenIT : 810
-id : 39
+Weight : 39
 category : Conception
 tiers : Utilisateur/Terminal
 responsable : UX/UI Designer

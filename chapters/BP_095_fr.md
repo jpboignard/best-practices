@@ -1,7 +1,7 @@
 ---
 title :  Eviter les redirections
 GreenIT : 45
-id : 95
+Weight : 95
 category : Support / Maintenance
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur

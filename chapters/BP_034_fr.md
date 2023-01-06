@@ -1,7 +1,7 @@
 ---
 title :  Ne pas redimensionner les images coté navigateur
 GreenIT : 93
-id : 34
+Weight : 34
 category : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur

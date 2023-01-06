@@ -1,7 +1,7 @@
 ---
 title : Favoriser les pages statiques
 GreenIT : 3
-id : 11
+Weight : 11
 category : Conception
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur

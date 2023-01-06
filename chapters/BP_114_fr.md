@@ -1,7 +1,7 @@
 ---
 title :  Adapter les vidéos aux contextes de visualisation
 GreenIT : 92 
-id : 114
+Weight : 114
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur

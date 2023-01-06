@@ -1,7 +1,7 @@
 ---
 title : Privilégier une approche "mobile first", à défaut un chargement adaptatif
 GreenIT : 6
-id : 6
+Weight : 6
 category : Conception
 tiers : Utilisateur/Terminal
 responsable : PO/AMOA

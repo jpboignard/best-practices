@@ -1,6 +1,6 @@
 ---
 title : Proposer un traitement asynchrone lorsque c'est possible
-id : 8
+Weight : 8
 GreenIT : 112
 category : Conception
 tiers :  Réseau

@@ -1,7 +1,7 @@
 ---
 title :  Compresser les documents
 GreenIT : 97
-id : 107
+Weight : 107
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur

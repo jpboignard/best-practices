@@ -1,7 +1,7 @@
 ---
 title :  Supprimer tous les warning et toutes les notices
 GreenIT : 51
-id : 70
+Weight : 70
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes

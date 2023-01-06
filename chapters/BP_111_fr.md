@@ -1,7 +1,7 @@
 ---
 title :  Limiter la taille des emails envoyés
 GreenIT : 104
-id : 111
+Weight : 111
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur

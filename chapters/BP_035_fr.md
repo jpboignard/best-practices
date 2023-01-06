@@ -1,7 +1,7 @@
 ---
 title :  Eviter d'utiliser des images matricielles pour l'interface
 GreenIT : 101
-id : 35
+Weight : 35
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur

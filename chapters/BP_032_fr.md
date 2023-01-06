@@ -1,7 +1,7 @@
 ---
 title :  Externaliser les CSS et JavaScript
 GreenIT : 7
-id : 32
+Weight : 32
 category : Réalisation
 tiers: Réseau
 responsable : Architecte Logiciel/Développeur

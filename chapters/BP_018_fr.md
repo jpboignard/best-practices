@@ -1,7 +1,7 @@
 ---
 title :  Limiter le nombre de domaine servant les ressources
 GreenIT : 170
-id : 18
+Weight : 18
 category : Production
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur

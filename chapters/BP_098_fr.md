@@ -1,7 +1,7 @@
 ---
 title :  Utiliser un CDN
 GreenIT : 75 
-id : 98
+Weight : 98
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes

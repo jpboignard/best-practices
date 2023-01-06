@@ -1,7 +1,7 @@
 ---
 title :  Optimiser la taille des cookies
 GreenIT : 65
-id : 82
+Weight : 82
 category : Réalisation
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur

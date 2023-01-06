@@ -1,7 +1,7 @@
 ---
 title :  Préférer les CSS aux image
 GreenIT : 11
-id : 23
+Weight : 23
 category : Réalisation
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur

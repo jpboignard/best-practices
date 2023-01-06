@@ -1,7 +1,7 @@
 ---
 title :  Utiliser le chargement paresseux
 GreenIT : 1010
-id : 37
+Weight : 37
 category : Réalisation
 tiers : Réseau
 responsable : UX/UI Designer

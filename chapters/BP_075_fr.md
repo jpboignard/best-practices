@@ -1,7 +1,7 @@
 ---
 title :  Optimiser les requêtes aux bases de données
 GreenIT : 59
-id : 75
+Weight : 75
 category : Réalisation
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur

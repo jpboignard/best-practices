@@ -1,7 +1,7 @@
 ---
 title :  Optimiser et générer les médias avant importation sur un CMS
 GreenIT : 99
-id : 58
+Weight : 58
 category : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur

@@ -1,7 +1,7 @@
 ---
 title :  Combiner les fichiers CSS et JavaScript
 GreenIT : 89
-id : 79
+Weight : 79
 category : Production
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur

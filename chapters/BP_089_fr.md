@@ -1,7 +1,7 @@
 ---
 title :  Utiliser des serveurs virtualisés
 GreenIT : 70
-id : 89
+Weight : 89
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes

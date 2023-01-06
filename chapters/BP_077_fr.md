@@ -1,7 +1,7 @@
 ---
 title :  Minifier les fichiers CSS, JavaScript, HTML et SVG
 GreenIT : 12
-id : 77
+Weight : 77
 category : Production
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur

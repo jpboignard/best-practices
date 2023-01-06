@@ -1,7 +1,7 @@
 ---
 title :  Optimiser les images
 GreenIT : 21
-id : 80
+Weight : 80
 category : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur

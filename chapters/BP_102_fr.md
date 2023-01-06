@@ -1,7 +1,7 @@
 ---
 title :  Mettre en cache les réponses Ajax
 GreenIT : 91
-id : 102
+Weight : 102
 category : Production
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur

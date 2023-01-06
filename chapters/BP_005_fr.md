@@ -1,7 +1,7 @@
 ---
 title : Favoriser un design simple, épuré, adapté au web
 GreenIT : 5
-id : 5
+Weight : 5
 category : Conception
 tiers : Utilisateur/Terminal
 reponsable : UX/UI Designer

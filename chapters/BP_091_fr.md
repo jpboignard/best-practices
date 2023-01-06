@@ -1,7 +1,7 @@
 ---
 title :  Installer le minimum requis sur le serveur
 GreenIT : 74
-id : 91
+Weight : 91
 category : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
