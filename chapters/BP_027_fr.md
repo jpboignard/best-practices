@@ -2,7 +2,7 @@
 title :  Fournir une CSS print
 GreenIT : 16
 Weight : 27
-category : Réalisation
+activity : Réalisation
 tiers : Utilisateur/Terminal
 responsable : UX/UI Designer
 priority: 3

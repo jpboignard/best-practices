@@ -2,7 +2,7 @@
 title : Limiter le nombre de requêtes HTTP
 GreenIT : 180
 Weight : 9
-category : Réalisation
+activity : Réalisation
 tiers :  Réseau
 responsable : Architecte Logiciel/Développeur
 priority: 4

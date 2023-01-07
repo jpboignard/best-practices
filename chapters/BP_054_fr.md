@@ -2,7 +2,7 @@
 title :  Réduire les accès au DOM via JavaScript
 GreenIT : 32
 Weight : 54
-category : Réalisation
+activity : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
 priority: 3

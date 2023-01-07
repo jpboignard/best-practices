@@ -2,7 +2,7 @@
 title :  Afficher des pages d'erreur statiques
 GreenIT : 46
 Weight : 96
-category : Conception
+activity : Conception
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
 priority: 3

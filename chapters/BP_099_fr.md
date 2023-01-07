@@ -2,7 +2,7 @@
 title :  Utiliser un cache HTTP
 GreenIT : 72
 Weight : 99
-category : Production
+activity : Production
 tiers : Réseau
 responsable : Administrateur systèmes
 priority: 4

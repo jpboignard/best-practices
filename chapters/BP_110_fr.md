@@ -2,7 +2,7 @@
 title :  N'utiliser que des fichiers double opt-in
 GreenIT : 103
 Weight : 110
-category : Conception
+activity : Conception
 tiers : Utilisateur/Terminal
 responsable : PO/AMOA
 priority: 2

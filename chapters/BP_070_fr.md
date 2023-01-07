@@ -2,7 +2,7 @@
 title :  Supprimer tous les warning et toutes les notices
 GreenIT : 51
 Weight : 70
-category : Production
+activity : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
 priority: 2

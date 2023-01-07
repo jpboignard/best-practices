@@ -2,7 +2,7 @@
 title : Proposer un traitement asynchrone lorsque c'est possible
 Weight : 8
 GreenIT : 112
-category : Conception
+activity : Conception
 tiers :  Réseau
 responsable : Architecte Logiciel/Développeur
 priority: 4

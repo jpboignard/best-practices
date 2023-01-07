@@ -2,7 +2,7 @@
 title :  Utiliser la délégation d'évènements
 GreenIT : 41
 Weight : 44
-category : Réalisation
+activity : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
 priority: 3

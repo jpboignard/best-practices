@@ -2,7 +2,7 @@
 title :  Valider votre code avec un Linter
 GreenIT : 35
 Weight : 46
-category : Réalisation
+activity : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
 priority: 3

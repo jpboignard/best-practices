@@ -2,7 +2,7 @@
 title :  Compresser les fichiers CSS, JavaScript, HTML et SVG
 GreenIT : 86
 Weight : 64
-category : Réalisation
+activity : Réalisation
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
 priority: 4

@@ -2,7 +2,7 @@
 title :  Utiliser un CDN
 GreenIT : 75
 Weight : 98
-category : Production
+activity : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
 priority: 4

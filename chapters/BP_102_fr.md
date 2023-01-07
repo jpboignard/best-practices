@@ -2,7 +2,7 @@
 title :  Mettre en cache les réponses Ajax
 GreenIT : 91
 Weight : 102
-category : Production
+activity : Production
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
 priority: 3

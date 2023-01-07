@@ -2,7 +2,7 @@
 title :  Modifier plusieurs propriétés CSS en 1 seule fois
 GreenIT : 34
 Weight : 45
-category : Réalisation
+activity : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
 priority: 3

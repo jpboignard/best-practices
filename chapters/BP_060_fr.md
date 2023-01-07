@@ -2,7 +2,7 @@
 title :  Encoder les sons en dehors du CMS
 GreenIT : 96
 Weight : 60
-category : Utilisation
+activity : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
 priority: 4

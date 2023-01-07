@@ -2,7 +2,7 @@
 title :  Utiliser le rechargement partiel d'une zone de contenu
 GreenIT : 40
 Weight : 38
-category : Réalisation
+activity : Réalisation
 tiers : Réseau
 responsable : UX/UI Designer
 priority: 4

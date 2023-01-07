@@ -2,7 +2,7 @@
 title :  Limiter la taille des e-mails envoyés
 GreenIT : 104
 Weight : 111
-category : Utilisation
+activity : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
 priority: 3

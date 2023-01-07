@@ -2,7 +2,7 @@
 title : Quantifier précisément le besoin
 GreenIT : 110
 Weight : 2
-category : Spécification
+activity : Spécification
 tiers : Utilisateur/Terminal
 responsable : PO/AMOA
 priority: 5

@@ -2,7 +2,7 @@
 title :  Valider les pages auprès du W3C
 GreenIT : 8
 Weight : 31
-category : Réalisation
+activity : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
 priority: 3

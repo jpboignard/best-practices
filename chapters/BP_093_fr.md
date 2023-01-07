@@ -2,7 +2,7 @@
 title :  Stocker les données dans le cloud
 GreenIT : 71
 Weight : 93
-category : Production
+activity : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
 priority: 2

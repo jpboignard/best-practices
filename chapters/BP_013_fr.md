@@ -2,7 +2,7 @@
 title : Favoriser les pages statiques
 GreenIT : 3
 Weight : 11
-category : Conception
+activity : Conception
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
 priority: 4

@@ -2,7 +2,7 @@
 title :  Adapter les vidéos aux contextes de visualisation
 GreenIT : 92
 Weight : 114
-category : Utilisation
+activity : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
 priority: 3

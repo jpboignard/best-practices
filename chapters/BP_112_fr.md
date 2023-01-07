@@ -2,7 +2,7 @@
 title :  Adapter les sons aux contextes d'écoute
 GreenIT : 95
 Weight : 112
-category : Utilisation
+activity : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
 priority: 2

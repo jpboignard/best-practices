@@ -2,7 +2,7 @@
 title :  Optimiser l'efficacité énergétique des serveurs
 GreenIT : 68
 Weight : 90
-category : Production
+activity : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
 priority: 2

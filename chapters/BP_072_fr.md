@@ -2,7 +2,7 @@
 title :  Éviter d'effectuer des requêtes SQL à l’intérieur d’une boucle
 GreenIT : 55
 Weight : 49
-category : Réalisation
+activity : Réalisation
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
 priority: 3

@@ -2,7 +2,7 @@
 title :  Choisir un format de données adapté
 GreenIT : 113
 Weight : 17
-category : Réalisation
+activity : Réalisation
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
 priority: 4

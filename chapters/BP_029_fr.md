@@ -2,7 +2,7 @@
 title :  Favoriser les polices standards
 GreenIT : 19
 Weight : 29
-category : Réalisation
+activity : Réalisation
 tiers : Réseau
 responsable : UX/UI Designer
 priority: 4

@@ -2,7 +2,7 @@
 title :  Mettre en cache les objets souvent accédés en JavaScript
 GreenIT : 33
 Weight : 49
-category : Réalisation
+activity : Réalisation
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
 priority: 4

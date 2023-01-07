@@ -2,7 +2,7 @@
 title : Préférer la saisie assistée à l'autocomplétion
 GreenIT : 204
 Weight : 4
-category : Spécification
+activity : Spécification
 tiers : Utilisateur/Terminal
 responsable : PO/AMOA
 priority: 3

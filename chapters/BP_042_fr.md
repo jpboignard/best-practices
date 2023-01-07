@@ -2,7 +2,7 @@
 title :  Rendre les éléments du DOM invisibles lors de leur modification
 GreenIT : 44
 Weight : 42
-category : Réalisation
+activity : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
 priority: 3

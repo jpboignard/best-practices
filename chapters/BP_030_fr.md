@@ -2,7 +2,7 @@
 title :  Préférer les glyphs aux images
 GreenIT : 20
 Weight : 30
-category : Réalisation
+activity : Réalisation
 tiers : Réseau
 responsable : UX/UI Designer
 priority: 4

@@ -2,7 +2,7 @@
 title :  Héberger les ressources (CSS/JS) sur un domaine sans cookie
 GreenIT : 73
 Weight : 94
-category : Production
+activity : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
 priority: 3

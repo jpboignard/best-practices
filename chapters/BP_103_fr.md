@@ -2,7 +2,7 @@
 title :  Réduire au nécessaire les logs des serveurs
 GreenIT : 82
 Weight : 103
-category : Production
+activity : Production
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
 priority: 2

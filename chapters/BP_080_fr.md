@@ -2,7 +2,7 @@
 title :  Optimiser les images
 GreenIT : 21
 Weight : 80
-category : Réalisation
+activity : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
 priority: 4

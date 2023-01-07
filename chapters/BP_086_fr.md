@@ -2,7 +2,7 @@
 title :  Choisir un hébergeur "éco-responsable"
 GreenIT : 66
 Weight : 86
-category : Production
+activity : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
 priority: 4

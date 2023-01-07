@@ -2,7 +2,7 @@
 title :  Favoriser HSTS Preload list aux redirections 301
 GreenIT : 1060
 Weight : 84
-category : Production
+activity : Production
 tiers : Réseau
 responsable : Administrateur systèmes
 priority: 4

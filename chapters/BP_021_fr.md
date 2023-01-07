@@ -2,7 +2,7 @@
 title :  Découper les CSS
 GreenIT : 9
 Weight : 21
-category : Réalisation
+activity : Réalisation
 tiers : Réseau
 responsable : UX/UI Designer
 priority: 4

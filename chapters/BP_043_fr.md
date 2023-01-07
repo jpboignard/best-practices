@@ -2,7 +2,7 @@
 title :  Réduire au maximum le repaint (appearence) et le reflow (layout)
 GreenIT : 42
 Weight : 43
-category : Réalisation
+activity : Réalisation
 tiers : Utilisateur/Terminal
 responsable : Architecte Logiciel/Développeur
 priority: 4

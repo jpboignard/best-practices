@@ -2,7 +2,7 @@
 title :  Utiliser un serveur asynchrone
 GreenIT : 77
 Weight : 97
-category : Production
+activity : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
 priority: 3

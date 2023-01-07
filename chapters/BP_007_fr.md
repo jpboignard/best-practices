@@ -2,7 +2,7 @@
 title : Respecter le principe de navigation rapide dans l’historique
 order: 28
 Weight : 7
-category : Conception
+activity : Conception
 tiers : Utilisateur/Terminal
 responsable : UX/UI Designer
 priority: 3

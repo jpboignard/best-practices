@@ -2,7 +2,7 @@
 title :  Limiter les e-mails lourds et redondants
 GreenIT : 102
 Weight : 109
-category : Utilisation
+activity : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
 priority: 3

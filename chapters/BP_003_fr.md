@@ -2,7 +2,7 @@
 title : Optimiser le parcours utilisateur
 GreenIT : 111
 Weight : 3
-category : Conception
+activity : Conception
 tiers : Utilisateur/Terminal
 reponsable : UX/UI Designer
 priority: 5

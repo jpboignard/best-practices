@@ -2,7 +2,7 @@
 title :  Utiliser tous les niveaux de cache du CMS
 GreenIT : 60
 Weight : 57
-category : Production
+activity : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
 priority: 4

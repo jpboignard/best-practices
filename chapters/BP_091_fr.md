@@ -2,7 +2,7 @@
 title :  Installer le minimum requis sur le serveur
 GreenIT : 74
 Weight : 91
-category : Production
+activity : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
 priority: 3

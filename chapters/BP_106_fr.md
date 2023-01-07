@@ -2,7 +2,7 @@
 title :  Désactiver les logs binaires
 GreenIT : 93
 Weight : 106
-category : Support / Maintenance
+activity : Support / Maintenance
 tiers : Datacenter
 responsable : Administrateur systèmes
 priority: 2

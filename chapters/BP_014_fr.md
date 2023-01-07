@@ -2,7 +2,7 @@
 title : Créer une architecture applicative modulaire
 GreenIT : 114
 Weight : 14
-category : Conception
+activity : Conception
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
 priority: 3

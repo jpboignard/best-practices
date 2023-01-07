@@ -2,7 +2,7 @@
 title :  Remplacer les boutons officiels de partage des réseaux sociaux
 GreenIT : 910
 Weight : 19
-category : Réalisation
+activity : Réalisation
 tiers : Utilisateur/Terminal
 responsable : UX/UI Designer
 priority: 4

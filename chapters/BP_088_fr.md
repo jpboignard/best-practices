@@ -2,7 +2,7 @@
 title :  Adapter la qualité de service et le niveau de disponibilité
 GreenIT : 501
 Weight : 88
-category : Production
+activity : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
 priority: 3

@@ -2,7 +2,7 @@
 title :  Mettre en place un plan de fin de vie du site
 GreenIT : 1030
 Weight : 85
-category : Fin de vie
+activity : Fin de vie
 tiers : Datacenter
 responsable : PO/AMOA
 priority: 3

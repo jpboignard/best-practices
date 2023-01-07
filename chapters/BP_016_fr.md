@@ -2,7 +2,7 @@
 title :  Utiliser certains forks applicatifs orientés "performance"
 GreenIT : 4
 Weight : 16
-category : Réalisation
+activity : Réalisation
 tiers : Datacenter
 Responsable : Administrateur systèmes
 priority: 3

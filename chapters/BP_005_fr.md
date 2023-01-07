@@ -2,7 +2,7 @@
 title : Favoriser un design simple, épuré, adapté au web
 GreenIT : 5
 Weight : 5
-category : Conception
+activity : Conception
 tiers : Utilisateur/Terminal
 reponsable : UX/UI Designer
 priority: 4

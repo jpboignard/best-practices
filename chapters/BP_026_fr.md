@@ -2,7 +2,7 @@
 title :  Utiliser les notations CSS abrégées
 GreenIT : 15
 Weight : 26
-category : Réalisation
+activity : Réalisation
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
 priority: 2

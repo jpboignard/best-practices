@@ -2,7 +2,7 @@
 title :  Combiner les fichiers CSS et JavaScript
 GreenIT : 89
 Weight : 79
-category : Production
+activity : Production
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
 priority: 4

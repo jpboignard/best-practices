@@ -2,7 +2,7 @@
 title :  Optimiser les PDF
 GreenIT : 98
 Weight : 108
-category : Utilisation
+activity : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
 priority: 3

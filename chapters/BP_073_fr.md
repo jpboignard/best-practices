@@ -2,7 +2,7 @@
 title :  Ne se connecter à une base de données que si nécessaire
 GreenIT : 56
 Weight : 73
-category : Conception
+activity : Conception
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
 priority: 3

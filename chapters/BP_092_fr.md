@@ -2,7 +2,7 @@
 title :  Mettre les caches entièrement en RAM (opcode et kvs)
 GreenIT : 85
 Weight : 92
-category : Production
+activity : Production
 tiers : Datacenter
 responsable : Administrateur systèmes
 priority: 2

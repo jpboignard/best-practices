@@ -2,7 +2,7 @@
 title :  N'utilisez que les portions indispensables des librairies JavaScript et frameworks CSS
 GreenIT : 811
 Weight : 40
-category : Conception
+activity : Conception
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
 priority: 4

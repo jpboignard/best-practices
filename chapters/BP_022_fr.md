@@ -2,7 +2,7 @@
 title :  Limiter le nombre de CSS
 GreenIT : 10
 Weight : 22
-category : Réalisation
+activity : Réalisation
 tiers : Réseau
 responsable : Architecte Logiciel/Développeur
 priority: 4

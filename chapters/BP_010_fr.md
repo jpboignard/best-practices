@@ -2,7 +2,7 @@
 title : Stocker les données statiques localement
 GreenIT : 205
 Weight : 10
-category : Réalisation
+activity : Réalisation
 tiers : Datacenter
 responsable : Architecte Logiciel/Développeur
 priority: 4

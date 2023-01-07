@@ -2,7 +2,7 @@
 title :  Compresser les documents
 GreenIT : 97
 Weight : 107
-category : Utilisation
+activity : Utilisation
 tiers : Utilisateur/Terminal
 responsable : Utilisateur
 priority: 3
