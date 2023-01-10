@@ -13,9 +13,10 @@ ressources:
 - Mémoire vive
 - Réseau
 - Requêtes
-gr491Recommandation : "Plusieurs recommandations dans les familles ARCHITECTURE / BACK-END / FRONT-END"
+gr491Recommandation : "BACK-END 2. Utiliser les composants techniques qui améliorent les aspects NR, sécurité et performance"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=2-7031-backend-la-reduction-des-volumes-dechanges-des-operations
 gr491Search : https://gr491.isit-europe.org/search.php?search=cache&go=Rechercher&famille=&inc=
-tag : [ Cache ]
+tag : [ Cache, BACK-END ]
 ---
 
 ## Ajouter des entêtes Expires ou Cache-Control

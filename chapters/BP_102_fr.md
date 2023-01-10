@@ -11,9 +11,10 @@ impact: 4
 ressources:
 - Réseau
 - Requêtes
-gr491Recommandation : "Plusieurs recommandations dans les familles ARCHITECTURE / BACK-END / FRONT-END"
+gr491Recommandation : "FRONT-END  3. Utiliser les environnements et outils qui permettent de limiter les impacts"
+gr491Critere : https://gr491.isit-europe.org/crit.php?id=3-5015-frontend-la-reduction-des-volumes-dechanges-des-operations
 gr491Search : https://gr491.isit-europe.org/search.php?search=cache&go=Rechercher&famille=&inc=
-tag : [ Cache ]
+tag : [ Cache, FRONT-END ]
 ---
 
 ## Mettre en cache les réponses Ajax

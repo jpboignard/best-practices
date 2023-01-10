@@ -10,7 +10,7 @@ difficulty: 4
 impact: 4
 ressources:
 - Réseau
-gr491Recommandation : "UX/UI https://gr491.isit-europe.org?famille=uxui&num_reco=8"
+gr491Recommandation : "UX/UI 8. Ingénierie média : alléger au maximum les médias du service numérique (images, animations, contenu)"
 gr491Search : https://gr491.isit-europe.org?famille=uxui&num_reco=8
 mesurer : Le nombre d'images non optimisées
 lighthouse : [image-aspect-ratio, image-size-responsive]

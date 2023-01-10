@@ -14,7 +14,7 @@ ressources:
 - Réseau
 - Requêtes
 - Stockage
-gr491Recommandation : "Stratégie 1. Définir et valider les besoins et les enjeux du projet afin d'anticiper les impacts"
+gr491Recommandation : "STRATEGIE 1. Définir et valider les besoins et les enjeux du projet afin d'anticiper les impacts"
 gr491Critere : https://gr491.isit-europe.org/crit.php?id=1-1007-strategie-les-incertitudes-poussent-a-extrapoler-les-besoins
 tag : [ Incontournable, STRATEGIE ]
 ---

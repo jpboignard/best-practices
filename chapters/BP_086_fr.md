@@ -12,7 +12,7 @@ ressources:
 - Déchets électroniques
 - Consommation électrique
 - Émissions de gaz à effet de serre
-gr491Recommandation : "Hébergement 1. Réduire l'impact de l'hébergement"
+gr491Recommandation : "HEBERGEMENT 1. Réduire l'impact de l'hébergement"
 gr491Critere : https://gr491.isit-europe.org/crit.php?id=1-8014-hebergement-la-puissance-totale-consommee-par-le-datacenter
 gr491Search : https://gr491.isit-europe.org/?famille=hebergement
 tag : [ Incontournable ]
