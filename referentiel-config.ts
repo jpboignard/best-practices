@@ -54,15 +54,26 @@ export const getRefConfig = (specificRef?: string): RefConfig => {
       tiers: false,
       scope: false,
       rgesnField: false,
+      lifecycle: true,
+      saved_resources: true,
+      filters: [
+        'lifecycle',
+        'scope',
+        'saved_resources',
+        'tiers',
+        // 'responsible', // bug
+        'priority_implementation', // empty
+        'environmental_impact', // empty
+        // 'rgesn', // empty, too many
+        'moe', // empty
+      ],
     },
   };
   switch (currentRef) {
     case 'RWP':
-      config.i18n.locales = ['fr', 'en', 'es'];
+      config.i18n.locales = ['fr'];
       config.i18n.languages = {
         fr: '🇫🇷 Français',
-        en: '🇬🇧 English',
-        es: '🇪🇸 Español',
       };
       config.i18n.refTitles = {
         es: { short: 'WordPress', long: ' para WordPress' },

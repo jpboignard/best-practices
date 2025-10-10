@@ -64,8 +64,14 @@ export const FichesTableView: FunctionComponent<FichesTableViewProps> = ({
                       </Link>
                     </td>
                     {getRefConfig().featuresEnabled.scope && (
-                      // @ts-ignore
-                      <th>{capitalizeFirstLetter(t(node?.scope as any))}</th>
+                      <th>
+                        {/* @ts-ignore */}
+                        {node?.scope
+                          .map((scope) =>
+                            capitalizeFirstLetter(t(scope as any))
+                          )
+                          .join(' ')}
+                      </th>
                     )}
                     <td>{capitalizeFirstLetter(t(node?.lifecycle as any))}</td>
                     <td>
@@ -85,6 +91,7 @@ export const FichesTableView: FunctionComponent<FichesTableViewProps> = ({
                       </strong>
                     </td>
                     <td>{getPreviousRefID(entry)}</td>
+                    {/* @ts-ignore */}
                     <td>{node?.rgesn || `-`}</td>
                   </tr>
                 );
